@@ -3,7 +3,7 @@
 {
   setwd("C:\\ACES\\R\\method development\\Suspect screening") #Set the working directory
   RD=read.csv("dry-v52.csv",header=T) #The detected peak list
-  lib=read.csv("AMAPECHA.csv",header=T) #The suspect list
+  lib=read.csv("CoCs.csv",header=T) #The suspect list
   
   i <- 1
   j <- 1
@@ -162,7 +162,7 @@
 {
   setwd("C:\\ACES\\R\\method development\\Suspect screening") #Set the working directory
   RD=read.csv("wet-v52.csv",header=T)  #The detected peak list
-  lib=read.csv("AMAPECHA.csv",header=T)  #The suspect list
+  lib=read.csv("CoCs.csv",header=T)  #The suspect list
   
   i <- 1
   j <- 1
