@@ -1,13 +1,14 @@
 #Dry condition
+#For peaks acquired in the dry condition, only masses of M+. from suspect lists are referenced. 
 {
-  setwd("C:\\ACES\\R\\method development\\Suspect screening")
-  RD=read.csv("dry-v52.csv",header=T)
-  lib=read.csv("AMAPECHA.csv",header=T)
+  setwd("C:\\ACES\\R\\method development\\Suspect screening") #Set the working directory
+  RD=read.csv("dry-v52.csv",header=T) #The detected peak list
+  lib=read.csv("AMAPECHA.csv",header=T) #The suspect list
   
   i <- 1
   j <- 1
-  while (i<38226) {
-    while (j<598) {
+  while (i<38226) #the number of detected peaks {
+    while (j<598) #the number of suspect compounds {
       if (lib[j,3]>(RD[i,2]+0.002)){
         j<- 1
         break}
@@ -153,19 +154,20 @@
       }
       j <- j+1}
     i <- i+1}
-  write.table(RD,"dry-v52-AMAP.csv",sep=",")
+  write.table(RD,"dry-v52-AMAP.csv",sep=",") #Name of output file
 }
 
 #Wet condition
+#For peaks acquired in the wet condition, only masses of [M+H]+ from suspect lists are used for the look up.
 {
-  setwd("C:\\ACES\\R\\method development\\Suspect screening")
-  RD=read.csv("wet-v52.csv",header=T)
-  lib=read.csv("AMAPECHA.csv",header=T)
+  setwd("C:\\ACES\\R\\method development\\Suspect screening") #Set the working directory
+  RD=read.csv("wet-v52.csv",header=T)  #The detected peak list
+  lib=read.csv("AMAPECHA.csv",header=T)  #The suspect list
   
   i <- 1
   j <- 1
-  while (i<23968) {
-    while (j<598) {
+  while (i<23968) #the number of detected peaks {
+    while (j<598) #the number of suspect compounds {
       if (lib[j,4]>(RD[i,2]+0.002)){
         j<- 1
         break}
@@ -311,5 +313,5 @@
       }
       j <- j+1}
     i <- i+1}
-  write.table(RD,"wet-v52-AMAP.csv",sep=",")
+  write.table(RD,"wet-v52-AMAP.csv",sep=",") #Name of output file
 }
