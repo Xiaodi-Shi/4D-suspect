@@ -1,0 +1,531 @@
+﻿Entry,Identity,M+.,[M+H]+,CCS (Å2),SourceCCS,Retention time (min),SourceRT
+1,Resorcinol,110.0363,111.0441,118.70,Measured,10.14,Measured
+2,Nitrobenzene,123.0315,124.0393,119.68,Predicted,7.81,Measured
+3,Salicyclic acid,138.0312,139.0390,120.05,Measured,12.25,Measured
+4,4-tert-Butylphenol,150.1040,151.1118,136.91,Predicted,10.63,Measured
+5,Paracetamol,151.0628,152.0706,130.81,Measured,13.62,Measured
+6,"cis-Cyclohexane-1,2-dicarboxylic anhydride",154.0625,155.0703,137.36,Predicted,8.73,Predicted
+7,"trans-Cyclohexane-1,2-dicarboxylic anhydride",154.0625,155.0703,137.23,Predicted,8.73,Predicted
+8,Monochloronaphthalene 1,162.0231,163.0309,124.86,Predicted,9.32,Measured
+9,Monochloronaphthalene 2,162.0231,163.0309,125.42,Predicted,9.67,Measured
+10,"p-(1,1-Dimethylpropyl)phenol",164.1196,165.1274,140.09,Predicted,11.27,Predicted
+11,Hexahydro-3-methylphthalic anhydride,168.0781,169.0859,140.18,Predicted,9.09,Predicted
+12,Hexahydro-4-methylphthalic anhydride,168.0781,169.0859,141.29,Predicted,9.44,Predicted
+13,Hexahydro-1-methylphthalic anhydride,168.0781,169.0859,141.43,Predicted,10.67,Predicted
+14,Acetylsalicylic acid,180.0418,181.0496,129.42,Predicted,12.40,Measured
+15,"1,7-Dimethylxanthine",180.0642,181.0720,132.40,Measured,17.41,Measured
+16,Triethyl phosphate,182.0703,183.0781,132.63,Measured,7.62,Measured
+17,"3-Ethyl-2-methyl-2-(3-methylbutyl)-1,3-oxazolidine",185.1775,186.1853,145.05,Predicted,10.30,Predicted
+18,"1,2,4-Benzenetricarboxylic anhydride",192.0054,193.0132,130.86,Measured,13.97,Predicted
+19,"4-(2,2-Dimethylpentan-3-yl)phenol",192.1509,193.1587,149.48,Predicted,12.76,Predicted
+20,"4-(2,4-Dimethylpentan-2-yl)phenol",192.1509,193.1587,147.57,Predicted,12.79,Predicted
+21,4-(5-Methylhexan-3-yl)phenol,192.1509,193.1587,149.18,Predicted,12.90,Predicted
+22,"4-(4,4-Dimethylpentan-2-yl)phenol",192.1509,193.1587,147.41,Predicted,13.02,Predicted
+23,"4-(2,3,3-Trimethylbutan-2-yl)phenol",192.1509,193.1587,147.04,Predicted,13.10,Predicted
+24,"4-(2,3-Dimethylpentan-2-yl)phenol",192.1509,193.1587,147.27,Predicted,13.20,Predicted
+25,4-(2-Methylhexan-2-yl)phenol,192.1509,193.1587,150.11,Predicted,13.23,Predicted
+26,4-(5-Methylhexan-2-yl)phenol,192.1509,193.1587,147.13,Predicted,13.24,Predicted
+27,4-(Heptan-4-yl)phenol,192.1509,193.1587,149.78,Predicted,13.27,Predicted
+28,"4-(2,4-Dimethylpentan-3-yl)phenol",192.1509,193.1587,148.38,Predicted,13.34,Predicted
+29,4-(4-Methylhexan-2-yl)phenol,192.1509,193.1587,144.30,Predicted,13.35,Predicted
+30,4-(Heptan-3-yl)phenol,192.1509,193.1587,149.80,Predicted,13.43,Predicted
+31,4-(Heptan-2-yl)phenol,192.1509,193.1587,147.09,Predicted,13.48,Predicted
+32,"4-(1-Ethyl-1,2-dimethylpropyl)phenol",192.1509,193.1587,148.45,Predicted,13.55,Predicted
+33,4-(3-Ethylpentan-3-yl)phenol,192.1509,193.1587,151.27,Predicted,13.55,Predicted
+34,4-(3-Methylhexan-3-yl)phenol,192.1509,193.1587,147.88,Predicted,13.64,Predicted
+35,"4-(3,3-Dimethylpentan-2-yl)phenol",192.1509,193.1587,147.33,Predicted,13.65,Predicted
+36,4-(3-Methylhexan-2-yl)phenol,192.1509,193.1587,146.02,Predicted,13.66,Predicted
+37,4-(3-Ethylpentyl)phenol,192.1509,193.1587,150.29,Predicted,13.98,Predicted
+38,4-(5-Methylhexyl)phenol,192.1509,193.1587,161.79,Predicted,14.07,Predicted
+39,4-Heptylphenol,192.1509,193.1587,149.18,Predicted,14.47,Predicted
+40,Dimethyl phthalate,194.0574,195.0652,135.45,Predicted,9.01,Measured
+41,Isobutyl 4-hydroxybenzoate,194.0938,195.1016,146.00,Predicted,12.91,Measured
+42,Butylparaben,194.0938,195.1016,148.06,Measured,13.53,Measured
+43,Dichloronaphthalene 4,195.9842,196.9920,136.97,Predicted,13.41,Predicted
+44,Dichloronaphthalene 3,195.9842,196.9920,135.84,Predicted,13.41,Predicted
+45,Dichloronaphthalene 6,195.9842,196.9920,130.84,Predicted,13.64,Predicted
+46,Dichloronaphthalene 7,195.9842,196.9920,131.73,Predicted,13.77,Predicted
+47,Dichloronaphthalene 8,195.9842,196.9920,131.65,Predicted,13.89,Predicted
+48,Dichloronaphthalene 10,195.9842,196.9920,136.29,Predicted,13.93,Predicted
+49,Dichloronaphthalene 9,195.9842,196.9920,131.14,Predicted,13.94,Predicted
+50,Dichloronaphthalene 5,195.9842,196.9920,131.54,Predicted,13.98,Predicted
+51,Dichloronaphthalene 11,195.9842,196.9920,132.34,Predicted,14.20,Predicted
+52,Dichloronaphthalene 12,195.9842,196.9920,132.78,Predicted,14.21,Predicted
+53,4-Aminoazobenzene,197.0948,198.1026,144.19,Measured,18.57,Predicted
+54,"2,2’-Methylenebisphenol",200.0832,201.0910,139.69,Predicted,15.65,Predicted
+55,"4,4’-Methylenebisphenol",200.0832,201.0910,153.05,Measured,18.24,Predicted
+56,2-Chlorodiphenyl ether,204.0337,205.0415,141.09,Predicted,13.00,Predicted
+57,3-Chlorodiphenyl ether,204.0337,205.0415,141.73,Predicted,13.70,Predicted
+58,4-Chlorodiphenyl ether,204.0337,205.0415,143.39,Predicted,12.11,Measured
+59,(2S)-3-(4-tert-Butylphenyl)-2-methylpropanal,204.1509,205.1587,147.44,Predicted,13.09,Predicted
+60,(2R)-3-(4-tert-Butylphenyl)-2-methylpropanal,204.1509,205.1587,147.68,Predicted,13.09,Predicted
+61,2-(4-tert-Butylbenzyl)propionaldehyde,204.1509,205.1587,146.38,Predicted,12.57,Measured
+62,Ibuprofen,206.1302,207.1380,144.00,Measured,13.97,Measured
+63,Clofibric acid,214.0392,215.0470,146.60,Measured,12.54,Measured
+64,Isononylphenol,220.1822,221.1900,156.56,Predicted,14.81,Predicted
+65,"4-(1,1,5-Trimethylhexyl)phenol",220.1822,221.1900,158.86,Predicted,15.14,Predicted
+66,"4-(1-Ethyl-1,4-dimethylpentyl)phenol",220.1822,221.1900,157.95,Predicted,15.17,Predicted
+67,"4-(1-Ethyl-1,3-dimethylpentyl)phenol",220.1822,221.1900,153.32,Predicted,15.22,Predicted
+68,Nonylphenol,220.1822,221.1900,155.82,Predicted,15.23,Predicted
+69,4-(3-Ethylheptan-2-yl)phenol,220.1822,221.1900,156.17,Predicted,15.36,Predicted
+70,"p-(1,1-Dimethylheptyl)phenol",220.1822,221.1900,158.81,Predicted,15.44,Predicted
+71,4-(1-Ethyl-1-methylhexyl)phenol,220.1822,221.1900,157.29,Predicted,15.68,Predicted
+72,p-(1-Methyloctyl)phenol,220.1822,221.1900,155.75,Predicted,15.81,Predicted
+73,p-Isononylphenol,220.1822,221.1900,158.19,Predicted,16.41,Predicted
+74,Diethyl phthalate,222.0887,223.0965,157.69,Predicted,11.34,Measured
+75,Hydroxy-ibuprofen,222.1251,223.1329,146.67,Predicted,15.77,Predicted
+76,Bis(2-(2-methoxyethoxy)ethyl)ether,222.1462,223.1540,152.10,Predicted,12.23,Predicted
+77,Benzophenone-3,228.0781,229.0859,146.43,Measured,15.70,Measured
+78,Chrysene,228.0934,229.1012,143.58,Measured,21.57,Measured
+79,Bisphenol A,228.1145,229.1223,149.50,Measured,18.12,Measured
+80,Amiloride,229.0474,230.0552,145.71,Measured,19.35,Predicted
+81,Trichloronaphthalene 19,229.9452,230.9530,141.23,Predicted,14.87,Predicted
+82,Trichloronaphthalene 20,229.9452,230.9530,142.39,Predicted,14.87,Predicted
+83,Trichloronaphthalene 13,229.9452,230.9530,142.71,Predicted,15.25,Predicted
+84,Trichloronaphthalene 21,229.9452,230.9530,141.83,Predicted,15.59,Predicted
+85,Trichloronaphthalene 14,229.9452,230.9530,144.68,Predicted,15.59,Predicted
+86,Trichloronaphthalene 25,229.9452,230.9530,142.02,Predicted,15.76,Predicted
+87,Trichloronaphthalene 24,229.9452,230.9530,137.70,Predicted,15.81,Predicted
+88,Trichloronaphthalene 15,229.9452,230.9530,141.06,Predicted,15.89,Predicted
+89,Trichloronaphthalene 22,229.9452,230.9530,141.84,Predicted,15.99,Predicted
+90,Trichloronaphthalene 16,229.9452,230.9530,141.57,Predicted,16.03,Predicted
+91,Trichloronaphthalene 26,229.9452,230.9530,142.40,Predicted,16.20,Predicted
+92,Trichloronaphthalene 17,229.9452,230.9530,141.87,Predicted,16.31,Predicted
+93,Trichloronaphthalene 23,229.9452,230.9530,135.64,Predicted,16.58,Predicted
+94,Trichloronaphthalene 18,229.9452,230.9530,142.23,Predicted,16.59,Predicted
+95,Naproxen,230.0938,231.1016,147.82,Predicted,18.33,Predicted
+96,Lidocaine,234.1727,235.1805,156.71,Measured,16.72,Measured
+97,Carbamazepine,236.0945,237.1023,149.09,Measured,20.78,Measured
+98,Carboxy-ibuprofen,236.1044,237.1122,149.48,Predicted,17.25,Predicted
+99,"2,6-Dichlorodiphenyl ether",237.9947,239.0025,144.19,Predicted,14.76,Predicted
+100,"2,5-Dichlorodiphenyl ether",237.9947,239.0025,149.30,Predicted,15.06,Predicted
+101,"2,4-Dichlorodiphenyl ether",237.9947,239.0025,150.51,Predicted,15.13,Predicted
+102,"2,3-Dichlorodiphenyl ether",237.9947,239.0025,149.97,Predicted,15.35,Predicted
+103,"2,2'-Dichlorodiphenyl ether",237.9947,239.0025,147.67,Predicted,15.45,Predicted
+104,"3,4-Dichlorodiphenyl ether",237.9947,239.0025,151.74,Predicted,15.62,Predicted
+105,"4,4'-Dichlorodiphenyl ether",237.9947,239.0025,150.91,Predicted,15.65,Predicted
+106,"3,5-Dichlorodiphenyl ether",237.9947,239.0025,151.91,Predicted,15.69,Predicted
+107,"2,4'-Dichlorodiphenyl ether",237.9947,239.0025,149.91,Predicted,15.98,Predicted
+108,"2,3'-Dichlorodiphenyl ether",237.9947,239.0025,149.48,Predicted,16.15,Predicted
+109,"3,3'-Dichlorodiphenyl ether",237.9947,239.0025,150.17,Predicted,16.42,Predicted
+110,"3,4'-Dichlorodiphenyl ether",237.9947,239.0025,151.59,Predicted,16.57,Predicted
+111,Hydrogenated terphenyl,238.1717,239.1795,158.59,Predicted,18.95,Predicted
+112,"1,7,7-Trimethyl-3-(phenylmethylene)bicyclo[2.2.1]heptan-2-one",240.1509,241.1587,160.78,Predicted,17.07,Predicted
+113,Fenoprofen,242.0938,243.1016,152.66,Predicted,18.44,Predicted
+114,"4,4'-(1-Methylpropylidene)bisphenol",242.1302,243.1380,166.20,Measured,20.15,Predicted
+115,Phantolide,244.1822,245.1900,155.57,Predicted,15.06,Predicted
+116,Celestolide,244.1822,245.1900,161.61,Predicted,14.57,Measured
+117,Ethoxylated isononylphenol,248.2135,249.2213,165.94,Predicted,16.30,Predicted
+118,"4,4'-Sulphonyldiphenol",250.0295,251.0373,154.25,Measured,21.10,Predicted
+119,Gemfibrozil,250.1564,251.1642,157.55,Measured,17.06,Predicted
+120,"2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethanol",250.1928,251.2006,162.45,Predicted,16.30,Predicted
+121,"2,4-Dibromophenol",251.8604,252.8682,134.30,Predicted,10.57,Predicted
+122,"2,6-Dibromophenol",251.8604,252.8682,122.05,Measured,11.40,Predicted
+123,Benzo[b]fluoranthene,252.0934,253.1012,150.89,Measured,17.05,Measured
+124,Benzo[k]fluoranthene,252.0934,253.1012,151.89,Measured,17.05,Measured
+125,Benzo[a]pyrene,252.0934,253.1012,149.84,Measured,17.35,Measured
+126,Sulfamethoxazole,253.0516,254.0594,151.64,Measured,17.15,Measured
+127,Ketoprofen,254.0938,255.1016,156.95,Measured,19.74,Predicted
+128,"1,7,7-Trimethyl-3-[(4-methylphenyl)methylene]bicyclo[2.2.1]heptan-2-one",254.1666,255.1744,164.89,Predicted,17.61,Predicted
+129,Galaxolide,258.1979,259.2057,162.68,Predicted,21.95,Predicted
+130,Propranolol,259.1567,260.1645,161.79,Measured,19.41,Measured
+131,Cyclophosfamide,260.0243,261.0321,146.25,Measured,16.01,Predicted
+132,Ifosfamide,260.0243,261.0321,146.93,Measured,18.14,Predicted
+133,"2,2-Bis(bromomethyl)propane-1,3-diol",261.9022,262.9100,141.42,Predicted,13.30,Predicted
+134,"4-(2,4-Dimethyl-3-propylheptyl)phenol",262.2292,263.2370,166.42,Predicted,17.90,Predicted
+135,4-Isododecylphenol,262.2292,263.2370,172.07,Predicted,19.83,Predicted
+136,"2-[4-(3,6-Dimethylheptan-3-yl)phenoxy]ethanol",264.2084,265.2162,168.51,Predicted,17.31,Predicted
+137,2-(Isononylphenoxy)ethanol,264.2084,265.2162,166.72,Predicted,17.69,Predicted
+138,2-(Nonylphenoxy)ethanol,264.2084,265.2162,165.86,Predicted,18.02,Predicted
+139,2-(4-Nonylphenoxy)ethanol,264.2084,265.2162,168.17,Predicted,18.94,Predicted
+140,Pentachlorophenol,265.8436,266.8514,134.35,Measured,18.20,Measured
+141,"2,6-Dibromoanisole",265.8760,266.8838,140.73,Predicted,11.75,Predicted
+142,"2,4-Dibromoanisole",265.8760,266.8838,140.54,Predicted,17.08,Predicted
+143,Tetrachloronaphthalene 43,265.9033,266.9111,148.18,Predicted,15.91,Predicted
+144,Tetrachloronaphthalene 32,265.9033,266.9111,151.04,Predicted,16.63,Predicted
+145,Tetrachloronaphthalene 34,265.9033,266.9111,150.56,Predicted,16.83,Predicted
+146,Tetrachloronaphthalene 28,265.9033,266.9111,149.29,Predicted,16.88,Predicted
+147,Tetrachloronaphthalene 29,265.9033,266.9111,148.95,Predicted,16.93,Predicted
+148,Tetrachloronaphthalene 45,265.9033,266.9111,150.27,Predicted,17.06,Predicted
+149,Tetrachloronaphthalene 44,265.9033,266.9111,150.70,Predicted,17.17,Predicted
+150,Tetrachloronaphthalene 46,265.9033,266.9111,143.52,Predicted,17.20,Predicted
+151,Tetrachloronaphthalene 33,265.9033,266.9111,150.49,Predicted,17.25,Predicted
+152,Tetrachloronaphthalene 47,265.9033,266.9111,149.25,Predicted,17.29,Predicted
+153,Tetrachloronaphthalene 40,265.9033,266.9111,150.07,Predicted,17.30,Predicted
+154,Tetrachloronaphthalene 27,265.9033,266.9111,148.70,Predicted,17.44,Predicted
+155,Tetrachloronaphthalene 38,265.9033,266.9111,148.66,Predicted,17.52,Predicted
+156,Tetrachloronaphthalene 30,265.9033,266.9111,149.58,Predicted,17.71,Predicted
+157,Tetrachloronaphthalene 48,265.9033,266.9111,152.28,Predicted,17.77,Predicted
+158,Tetrachloronaphthalene 41,265.9033,266.9111,152.26,Predicted,17.83,Predicted
+159,Tetrachloronaphthalene 42,265.9033,266.9111,150.75,Predicted,17.84,Predicted
+160,Tetrachloronaphthalene 35,265.9033,266.9111,150.72,Predicted,18.05,Predicted
+161,Tetrachloronaphthalene 37,265.9033,266.9111,150.43,Predicted,18.10,Predicted
+162,Tetrachloronaphthalene 39,265.9033,266.9111,152.07,Predicted,18.29,Predicted
+163,Tetrachloronaphthalene 36,265.9033,266.9111,151.51,Predicted,18.34,Predicted
+164,Tetrachloronaphthalene 31,265.9033,266.9111,149.38,Predicted,18.53,Predicted
+165,Musk tibetene,266.1262,267.1340,158.89,Predicted,17.05,Measured
+166,Atenolol,266.1625,267.1703,158.75,Measured,20.92,Predicted
+167,Tributyl phosphate,266.1642,267.1720,168.44,Measured,13.46,Measured
+168,Tri-iso-butyl phosphate,266.1642,267.1720,165.44,Measured,12.37,Measured
+169,"2-(2,4-Dimethyl-3-cyclohexen-1-yl)-5-methyl-5-(1-methylpropyl)-1,3-dioxane",266.2241,267.2319,165.36,Predicted,15.43,Predicted
+170,"4,4'-Bis(dimethylamino)benzophenone",268.1571,269.1649,165.02,Predicted,21.07,Predicted
+171,Sulfmethizole,270.0240,271.0318,154.83,Measured,36.90,Predicted
+172,"2,2-Bis(4'-hydroxyphenyl)-4-methylpentane",270.1615,271.1693,167.19,Predicted,21.15,Predicted
+173,Estrone,270.1615,271.1693,165.76,Predicted,24.10,Measured
+174,"2,4,6-Trichlorodiphenyl ether",271.9557,272.9635,156.36,Predicted,16.19,Predicted
+175,"2,3,5-Trichlorodiphenyl ether",271.9557,272.9635,159.02,Predicted,16.67,Predicted
+176,"2,4,5-Trichlorodiphenyl ether",271.9557,272.9635,159.61,Predicted,16.79,Predicted
+177,"2,3,4-Trichlorodiphenyl ether",271.9557,272.9635,156.54,Predicted,16.93,Predicted
+178,"2,3,6-Trichlorodiphenyl ether",271.9557,272.9635,153.32,Predicted,17.03,Predicted
+179,"2,4,4'-Trichlorodiphenyl ether",271.9557,272.9635,159.15,Predicted,17.05,Predicted
+180,"2,4',5-Trichlorodiphenyl ether",271.9557,272.9635,157.36,Predicted,17.09,Predicted
+181,"2,2',6-Trichlorodiphenyl ether",271.9557,272.9635,151.42,Predicted,17.31,Predicted
+182,"2,2',5-Trichlorodiphenyl ether",271.9557,272.9635,155.75,Predicted,17.34,Predicted
+183,"2,2',4-Trichlorodiphenyl ether",271.9557,272.9635,156.13,Predicted,17.37,Predicted
+184,"2,3',6-Trichlorodiphenyl ether",271.9557,272.9635,151.19,Predicted,17.39,Predicted
+185,"3,4,4'-Trichlorodiphenyl ether",271.9557,272.9635,161.33,Predicted,17.54,Predicted
+186,"2,3',5-Trichlorodiphenyl ether",271.9557,272.9635,156.51,Predicted,17.62,Predicted
+187,"2,2',3-Trichlorodiphenyl ether",271.9557,272.9635,156.39,Predicted,17.66,Predicted
+188,"3,4',5-Trichlorodiphenyl ether",271.9557,272.9635,161.15,Predicted,17.67,Predicted
+189,"2,3',4-Trichlorodiphenyl ether",271.9557,272.9635,158.02,Predicted,17.85,Predicted
+190,"2',3,4-Trichlorodiphenyl ether",271.9557,272.9635,159.52,Predicted,17.86,Predicted
+191,"2',3,5-Trichlorodiphenyl ether",271.9557,272.9635,158.19,Predicted,17.88,Predicted
+192,"2,3,4'-Trichlorodiphenyl ether",271.9557,272.9635,159.17,Predicted,18.06,Predicted
+193,"3,4,5-Trichlorodiphenyl ether",271.9557,272.9635,158.27,Predicted,18.08,Predicted
+194,"2,3,3'-Trichlorodiphenyl ether",271.9557,272.9635,157.46,Predicted,18.14,Predicted
+195,"2,4',6-Trichlorodiphenyl ether",271.9557,272.9635,152.34,Predicted,18.21,Predicted
+196,"3,3',5-Trichlorodiphenyl ether",271.9557,272.9635,159.18,Predicted,18.38,Predicted
+197,"3,3',4-Trichlorodiphenyl ether",271.9557,272.9635,159.50,Predicted,18.40,Predicted
+198,17b-Estradiol,272.1771,273.1849,167.23,Predicted,23.80,Predicted
+199,"Benzo[g,h,i]perylene",276.0934,277.1012,154.46,Measured,26.82,Measured
+200,Venlafaxine,277.2037,278.2115,170.71,Measured,22.09,Predicted
+201,Sulfamethazine,278.0832,279.0910,162.16,Measured,22.84,Predicted
+202,Di-iso-butyl phthalate,278.1513,279.1591,171.43,Predicted,14.51,Measured
+203,Di-n-butyl phthalate,278.1513,279.1591,176.22,Predicted,15.66,Measured
+204,2-Methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one,279.1288,280.1366,168.12,Predicted,18.58,Predicted
+205,Pentachloroanisole,279.8592,280.8670,148.24,Predicted,14.64,Measured
+206,Tris(2-methoxyethoxy)vinylsilane,280.1337,281.1415,159.10,Predicted,11.94,Predicted
+207,Bis(2-methoxyethyl) phthalate,282.1098,283.1176,165.67,Predicted,13.57,Measured
+208,Tris(2-chloroethyl)phosphate,283.9534,284.9612,150.36,Measured,15.29,Measured
+209,p-sec-Nonylphenol phosphite,284.1536,285.1614,170.73,Predicted,18.32,Predicted
+210,Bis(4-chlorophenyl) sulphone,285.9617,286.9695,157.48,Measured,19.50,Predicted
+211,Triclosan,287.9507,288.9585,158.40,Measured,19.06,Predicted
+212,Estriol,288.1720,289.1798,165.62,Predicted,25.19,Predicted
+213,Desmethylsertraline,291.0577,292.0655,166.84,Predicted,21.47,Predicted
+214,"2-[2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy]ethanol",294.2190,295.2268,175.22,Predicted,19.40,Predicted
+215,Diclofenac,295.0162,296.0240,158.05,Measured,20.45,Measured
+216,Norfluoxetine,295.1179,296.1257,164.04,Predicted,16.73,Predicted
+217,Didesmethylcitalopram ,296.1320,297.1398,169.93,Predicted,21.65,Predicted
+218,17a-Ethynylestradiol,296.1771,297.1849,173.98,Predicted,23.88,Predicted
+219,"1,3,5-Tris(oxiran-2-ylmethyl)-1,3,5-triazinane-2,4,6-trione",297.0956,298.1034,164.68,Predicted,21.91,Predicted
+220,Pentachloronaphthalene 60,299.8643,300.8721,159.40,Predicted,17.62,Predicted
+221,Pentachloronaphthalene 53,299.8643,300.8721,155.70,Predicted,17.82,Predicted
+222,Pentachloronaphthalene 58,299.8643,300.8721,158.91,Predicted,18.77,Predicted
+223,Pentachloronaphthalene 61,299.8643,300.8721,159.18,Predicted,18.83,Predicted
+224,Pentachloronaphthalene 49,299.8643,300.8721,155.64,Predicted,18.88,Predicted
+225,Pentachloronaphthalene 59,299.8643,300.8721,158.24,Predicted,18.98,Predicted
+226,Pentachloronaphthalene 62,299.8643,300.8721,158.80,Predicted,19.23,Predicted
+227,Pentachloronaphthalene 57,299.8643,300.8721,158.71,Predicted,19.24,Predicted
+228,Pentachloronaphthalene 50,299.8643,300.8721,154.97,Predicted,19.33,Predicted
+229,Pentachloronaphthalene 56,299.8643,300.8721,156.84,Predicted,19.38,Predicted
+230,Pentachloronaphthalene 55,299.8643,300.8721,156.79,Predicted,19.50,Predicted
+231,Pentachloronaphthalene 54,299.8643,300.8721,157.09,Predicted,19.50,Predicted
+232,Pentachloronaphthalene 52,299.8643,300.8721,158.11,Predicted,19.70,Predicted
+233,Pentachloronaphthalene 51,299.8643,300.8721,156.71,Predicted,19.87,Predicted
+234,Mesterone ,302.2241,303.2319,177.54,Predicted,23.52,Predicted
+235,Cocaine,303.1466,304.1544,169.61,Predicted,19.63,Measured
+236,Diazinon,304.1006,305.1084,172.27,Measured,15.70,Measured
+237,Sertraline,305.0733,306.0811,171.42,Predicted,16.62,Predicted
+238,Butyldiphenyl phosphate,306.1016,307.1094,172.16,Predicted,23.01,Predicted
+239,N-pentyl-iso-pentyl phthalate,306.1826,307.1904,184.14,Predicted,18.90,Predicted
+240,Dipentyl phthalate,306.1826,307.1904,183.82,Predicted,17.59,Measured
+241,Di-iso-pentyl phthalate,306.1826,307.1904,184.49,Predicted,18.41,Measured
+242,"2,3,4,6-Tetrachlorodiphenyl ether",307.9139,308.9217,161.74,Predicted,18.02,Predicted
+243,"2,3,5,6-Tetrachlorodiphenyl ether",307.9139,308.9217,163.52,Predicted,18.26,Predicted
+244,"2,4,4',6-Tetrachlorodiphenyl ether",307.9139,308.9217,161.95,Predicted,18.33,Predicted
+245,"2,3,4',5-Tetrachlorodiphenyl ether",307.9139,308.9217,166.68,Predicted,18.59,Predicted
+246,"2,2',4,6-Tetrachlorodiphenyl ether",307.9139,308.9217,162.21,Predicted,18.61,Predicted
+247,"2,2',5,5'-Tetrachlorodiphenyl ether",307.9139,308.9217,162.95,Predicted,18.62,Predicted
+248,"2,2',4,5'-Tetrachlorodiphenyl ether",307.9139,308.9217,164.64,Predicted,18.70,Predicted
+249,"2,3',4,6-Tetrachlorodiphenyl ether",307.9139,308.9217,162.21,Predicted,18.70,Predicted
+250,"2,3,4,5-Tetrachlorodiphenyl ether",307.9139,308.9217,163.57,Predicted,18.73,Predicted
+251,"2,4,4',5-Tetrachlorodiphenyl ether",307.9139,308.9217,167.45,Predicted,18.77,Predicted
+252,"2,2',4,4'-Tetrachlorodiphenyl ether",307.9139,308.9217,163.95,Predicted,18.78,Predicted
+253,"2,3,4,4'-Tetrachlorodiphenyl ether",307.9139,308.9217,165.46,Predicted,18.80,Predicted
+254,"2,2',3,5-Tetrachlorodiphenyl ether",307.9139,308.9217,165.14,Predicted,18.80,Predicted
+255,"2,2',3,5'-Tetrachlorodiphenyl ether",307.9139,308.9217,164.32,Predicted,18.87,Predicted
+256,"2,2',4,5-Tetrachlorodiphenyl ether",307.9139,308.9217,164.49,Predicted,18.98,Predicted
+257,"2,2',3,4-Tetrachlorodiphenyl ether",307.9139,308.9217,162.20,Predicted,19.04,Predicted
+258,"2,3',4,5'-Tetrachlorodiphenyl ether",307.9139,308.9217,165.99,Predicted,19.11,Predicted
+259,"2,3,3',5-Tetrachlorodiphenyl ether",307.9139,308.9217,165.19,Predicted,19.13,Predicted
+260,"2,2',3,4'-Tetrachlorodiphenyl ether",307.9139,308.9217,164.83,Predicted,19.16,Predicted
+261,"2,3,4',6-Tetrachlorodiphenyl ether",307.9139,308.9217,161.79,Predicted,19.16,Predicted
+262,"2,3',4,4'-Tetrachlorodiphenyl ether",307.9139,308.9217,166.69,Predicted,19.20,Predicted
+263,"2,2',6,6'-Tetrachlorodiphenyl ether",307.9139,308.9217,155.55,Predicted,19.28,Predicted
+264,"2,3',4',5-Tetrachlorodiphenyl ether",307.9139,308.9217,165.67,Predicted,19.28,Predicted
+265,"2,3',4,5-Tetrachlorodiphenyl ether",307.9139,308.9217,165.78,Predicted,19.28,Predicted
+266,"2,2',5,6'-Tetrachlorodiphenyl ether",307.9139,308.9217,157.78,Predicted,19.29,Predicted
+267,"2,3',5,5'-Tetrachlorodiphenyl ether",307.9139,308.9217,164.97,Predicted,19.34,Predicted
+268,"3,3',5,5'-Tetrachlorodiphenyl ether",307.9139,308.9217,165.63,Predicted,19.39,Predicted
+269,"2,3,3',4-Tetrachlorodiphenyl ether",307.9139,308.9217,164.62,Predicted,19.42,Predicted
+270,"2,2',3,6-Tetrachlorodiphenyl ether",307.9139,308.9217,159.68,Predicted,19.43,Predicted
+271,"2,2',3,3'-Tetrachlorodiphenyl ether",307.9139,308.9217,165.06,Predicted,19.45,Predicted
+272,"2,2',4,6'-Tetrachlorodiphenyl ether",307.9139,308.9217,158.33,Predicted,19.46,Predicted
+273,"2,3,3',6-Tetrachlorodiphenyl ether",307.9139,308.9217,160.86,Predicted,19.51,Predicted
+274,"2,3,3',5'-Tetrachlorodiphenyl ether",307.9139,308.9217,166.11,Predicted,19.76,Predicted
+275,"2,2',3,6'-Tetrachlorodiphenyl ether",307.9139,308.9217,159.00,Predicted,19.83,Predicted
+276,"2,3,3',4'-Tetrachlorodiphenyl ether",307.9139,308.9217,166.21,Predicted,19.84,Predicted
+277,"3,3',4,5'-Tetrachlorodiphenyl ether",307.9139,308.9217,166.87,Predicted,19.88,Predicted
+278,"2,3',4',6-Tetrachlorodiphenyl ether",307.9139,308.9217,160.23,Predicted,20.02,Predicted
+279,"2,3',5',6-Tetrachlorodiphenyl ether",307.9139,308.9217,160.60,Predicted,20.02,Predicted
+280,"3,4,4',5-Tetrachlorodiphenyl ether",307.9139,308.9217,167.47,Predicted,20.06,Predicted
+281,"3,3',4,4'-Tetrachlorodiphenyl ether",307.9139,308.9217,168.95,Predicted,20.18,Predicted
+282,"2',3,4,5-Tetrachlorodiphenyl ether",307.9139,308.9217,165.01,Predicted,20.22,Predicted
+283,"3,3',4,5-Tetrachlorodiphenyl ether",307.9139,308.9217,166.19,Predicted,20.63,Predicted
+284,"4-(3',6'-Dimethyl-3'-heptyl)phenol diethoxylate",308.2346,309.2424,181.31,Predicted,20.12,Predicted
+285,2-[2-(Nonylphenoxy)ethoxy]ethanol,308.2346,309.2424,180.09,Predicted,20.50,Predicted
+286,2-[2-[4-(2-Methyloctan-2-yl)phenoxy]ethoxy]ethanol,308.2346,309.2424,181.17,Predicted,20.53,Predicted
+287,2-[2-(4-Nonylphenoxy)ethoxy]ethanol,308.2346,309.2424,180.95,Predicted,21.76,Predicted
+288,Fluoxetine,309.1335,310.1413,175.00,Measured,21.62,Predicted
+289,Desmethylcitalopram,310.1476,311.1554,173.63,Predicted,13.26,Predicted
+290,Butyl benzyl phthalate,312.1357,313.1435,181.27,Predicted,18.17,Measured
+291,"1,3,5-Tribromobenzene",313.7759,314.7837,128.32,Predicted,11.40,Predicted
+292,"1,2,3-Tribromobenzne",313.7759,314.7837,149.10,Predicted,12.35,Predicted
+293,Fluvoxamine,318.1550,319.1628,167.77,Predicted,8.52,Predicted
+294,Norfloxacin,319.1327,320.1405,179.42,Measured,25.72,Predicted
+295,Gliclazide,323.1299,324.1377,177.55,Measured,22.63,Predicted
+296,2-(2H-Benzotriazol-2-yl)-4-(tert-butyl)-6-(sec-butyl)phenol,323.1993,324.2071,181.32,Predicted,22.44,Predicted
+297,"2-Benzotriazol-2-yl-4,6-di-tert-butylphenol",323.1993,324.2071,183.61,Predicted,22.93,Predicted
+298,Citalopram,324.1633,325.1711,179.85,Measured,11.16,Predicted
+299,Tris(chloroiso-propyl)phosphate,326.0003,327.0081,161.77,Measured,16.01,Predicted
+300,Triphenyl phosphate,326.0703,327.0781,171.41,Measured,18.43,Measured
+301,"(2R,4R,6S,8S,10S)-2,4,6,8,10-Pentachloroundecane",327.9895,328.9973,159.65,Predicted,16.74,Predicted
+302,Paroxetine,329.1422,330.1500,180.48,Predicted,22.73,Predicted
+303,"2,4,6-Tribromophenol",329.7709,330.7787,131.09,Measured,11.69,Measured
+304,Furosemide,330.0072,331.0150,169.30,Measured,21.86,Predicted
+305,Dicyclohexyl phthalate,330.1826,331.1904,189.17,Predicted,18.79,Measured
+306,Ciprofloxacin,331.1327,332.1405,181.78,Measured,23.46,Predicted
+307,Dacthal,331.8987,332.9065,163.81,Predicted,17.92,Predicted
+308,Hexachloronaphthalene 68,333.8253,334.8331,164.24,Predicted,19.27,Predicted
+309,Hexachloronaphthalene 67,333.8253,334.8331,162.89,Predicted,19.35,Predicted
+310,Hexachloronaphthalene 71,333.8253,334.8331,166.70,Predicted,19.55,Predicted
+311,Hexachloronaphthalene 66,333.8253,334.8331,163.83,Predicted,20.06,Predicted
+312,Hexachloronaphthalene 64,333.8253,334.8331,162.00,Predicted,20.81,Predicted
+313,Hexachloronaphthalene 72,333.8253,334.8331,166.53,Predicted,20.90,Predicted
+314,Hexachloronaphthalene 69,333.8253,334.8331,164.78,Predicted,20.91,Predicted
+315,Hexachloronaphthalene 65,333.8253,334.8331,162.24,Predicted,21.05,Predicted
+316,Hexachloronaphthalene 63,333.8253,334.8331,163.89,Predicted,21.22,Predicted
+317,Hexachloronaphthalene 70,333.8253,334.8331,162.50,Predicted,21.57,Predicted
+318,Benzyl penicillin,334.0982,335.1060,172.90,Measured,24.27,Predicted
+319,Di-iso-hexyl phthalate,334.2139,335.2217,192.57,Predicted,20.14,Predicted
+320,Di-n-hexyl phthalate,334.2139,335.2217,193.18,Predicted,20.74,Measured
+321,"4,4'-[2,2,2-Trifluoro-1-(trifluoromethyl)ethylidene]bisphenol",336.0580,337.0658,166.06,Measured,13.19,Predicted
+322,Acebutolol,336.2044,337.2122,189.03,Measured,24.52,Measured
+323,Perindoprilat,340.1993,341.2071,181.33,Predicted,22.80,Predicted
+324,"2,2',4,5',6-Pentachlorodiphenyl ether",341.8749,342.8827,170.04,Predicted,19.85,Predicted
+325,"2,3',4,5',6-Pentachlorodiphenyl ether",341.8749,342.8827,170.73,Predicted,19.95,Predicted
+326,"2,2',4,4',6-Pentachlorodiphenyl ether",341.8749,342.8827,169.65,Predicted,20.03,Predicted
+327,"2,3,4,5,6-Pentachlorodiphenyl ether",341.8749,342.8827,165.74,Predicted,20.03,Predicted
+328,"2,2',3,4',5-Pentachlorodiphenyl ether",341.8749,342.8827,172.30,Predicted,20.05,Predicted
+329,"2,2',3',4,6-Pentachlorodiphenyl ether",341.8749,342.8827,170.16,Predicted,20.09,Predicted
+330,"2,2',3,5,5'-Pentachlorodiphenyl ether",341.8749,342.8827,172.33,Predicted,20.10,Predicted
+331,"2,3,3',5,5'-Pentachlorodiphenyl ether",341.8749,342.8827,173.02,Predicted,20.12,Predicted
+332,"2,3,4,4',6-Pentachlorodiphenyl ether",341.8749,342.8827,168.77,Predicted,20.15,Predicted
+333,"2,2',4,4',5-Pentachlorodiphenyl ether",341.8749,342.8827,171.90,Predicted,20.24,Predicted
+334,"2,2',4,5,5'-Pentachlorodiphenyl ether",341.8749,342.8827,172.43,Predicted,20.26,Predicted
+335,"2,2',3,4,5'-Pentachlorodiphenyl ether",341.8749,342.8827,170.65,Predicted,20.29,Predicted
+336,"2,3',4,5,5'-Pentachlorodiphenyl ether",341.8749,342.8827,173.39,Predicted,20.32,Predicted
+337,"2,3,4',5,6-Pentachlorodiphenyl ether",341.8749,342.8827,170.85,Predicted,20.32,Predicted
+338,"2,2',3,4,4'-Pentachlorodiphenyl ether",341.8749,342.8827,171.03,Predicted,20.33,Predicted
+339,"2,2',3,4,6-Pentachlorodiphenyl ether",341.8749,342.8827,166.90,Predicted,20.34,Predicted
+340,"2,2',3,3',5-Pentachlorodiphenyl ether",341.8749,342.8827,172.83,Predicted,20.47,Predicted
+341,"2,2',3,5,6-Pentachlorodiphenyl ether",341.8749,342.8827,168.85,Predicted,20.50,Predicted
+342,"2,3,3',4,6-Pentachlorodiphenyl ether",341.8749,342.8827,168.78,Predicted,20.56,Predicted
+343,"2,2',4,6,6'-Pentachlorodiphenyl ether",341.8749,342.8827,166.65,Predicted,20.57,Predicted
+344,"2,3',4,4',6-Pentachlorodiphenyl ether",341.8749,342.8827,170.45,Predicted,20.59,Predicted
+345,"2,2',3',4,5-Pentachlorodiphenyl ether",341.8749,342.8827,172.64,Predicted,20.61,Predicted
+346,"2,2',3,5',6-Pentachlorodiphenyl ether",341.8749,342.8827,167.19,Predicted,20.61,Predicted
+347,"2,3,3',4',5-Pentachlorodiphenyl ether",341.8749,342.8827,173.84,Predicted,20.61,Predicted
+348,"2,3,4,4',5-Pentachlorodiphenyl ether",341.8749,342.8827,171.66,Predicted,20.71,Predicted
+349,"2,2',3,5,6'-Pentachlorodiphenyl ether",341.8749,342.8827,167.16,Predicted,20.72,Predicted
+350,"2,2',3,4',6-Pentachlorodiphenyl ether",341.8749,342.8827,167.14,Predicted,20.72,Predicted
+351,"2,3',4,4',5-Pentachlorodiphenyl ether",341.8749,342.8827,173.55,Predicted,20.75,Predicted
+352,"2,2',3,3',4-Pentachlorodiphenyl ether",341.8749,342.8827,172.00,Predicted,20.76,Predicted
+353,"2,3,3',4,5'-Pentachlorodiphenyl ether",341.8749,342.8827,172.48,Predicted,20.78,Predicted
+354,"2,3,3',5,6-Pentachlorodiphenyl ether",341.8749,342.8827,170.67,Predicted,20.78,Predicted
+355,"2,2',3,4,5-Pentachlorodiphenyl ether",341.8749,342.8827,169.95,Predicted,20.82,Predicted
+356,"2,2',3,3',6-Pentachlorodiphenyl ether",341.8749,342.8827,168.03,Predicted,20.83,Predicted
+357,"2,2',4,5,6'-Pentachlorodiphenyl ether",341.8749,342.8827,166.40,Predicted,20.90,Predicted
+358,"2,2',3,4,6'-Pentachlorodiphenyl ether",341.8749,342.8827,165.57,Predicted,20.96,Predicted
+359,"2,3,3',4,4'-Pentachlorodiphenyl ether",341.8749,342.8827,172.87,Predicted,21.08,Predicted
+360,"2,3,3',5',6-Pentachlorodiphenyl ether",341.8749,342.8827,169.43,Predicted,21.11,Predicted
+361,"2,3,3',4',6-Pentachlorodiphenyl ether",341.8749,342.8827,169.31,Predicted,21.17,Predicted
+362,"2,3,3',4,5-Pentachlorodiphenyl ether",341.8749,342.8827,170.38,Predicted,21.19,Predicted
+363,"2,2',3,6,6'-Pentachlorodiphenyl ether",341.8749,342.8827,163.37,Predicted,21.28,Predicted
+364,"2',3,4,4',5-Pentachlorodiphenyl ether",341.8749,342.8827,171.60,Predicted,21.31,Predicted
+365,"2',3,4,5,5'-Pentachlorodiphenyl ether",341.8749,342.8827,171.48,Predicted,21.54,Predicted
+366,"3,3',4,5,5'-Pentachlorodiphenyl ether",341.8749,342.8827,173.44,Predicted,21.57,Predicted
+367,"2',3,3',4,5-Pentachlorodiphenyl ether",341.8749,342.8827,172.91,Predicted,21.80,Predicted
+368,"3,3',4,4',5-Pentachlorodiphenyl ether",341.8749,342.8827,173.86,Predicted,21.89,Predicted
+369,"2',3,4,5,6'-Pentachlorodiphenyl ether",341.8749,342.8827,166.83,Predicted,22.12,Predicted
+370,"2,4,6-Tribromoanisole",343.7865,344.7943,149.04,Predicted,11.03,Predicted
+371,Methoxychlor,344.0133,345.0211,167.22,Predicted,21.63,Measured
+372,Omeprazole,345.1142,346.1220,179.49,Measured,24.04,Predicted
+373,"Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide",348.1274,349.1352,197.10,Measured,24.91,Predicted
+374,Chlorpyrifos,350.9229,351.9307,173.20,Measured,15.70,Measured
+375,"2-(2H-Benzotriazol-2-yl)-4,6-ditertpentylphenol",351.2306,352.2384,191.96,Predicted,24.37,Predicted
+376,"4,4'-(Diphenylmethylene)bisphenol",352.1458,353.1536,193.48,Predicted,27.24,Predicted
+377,Indomethacin,357.0763,358.0841,179.37,Measured,20.48,Measured
+378,"2,4-Di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol",357.1603,358.1681,196.15,Measured,18.65,Measured
+379,Enrofloxacin,359.1640,360.1718,193.86,Measured,8.72,Predicted
+380,Fenofibrate,360.1123,361.1201,190.70,Measured,22.43,Predicted
+381,Ofloxacin,361.1433,362.1511,189.83,Measured,16.65,Predicted
+382,Ethyl-hexyl diphenyl phosphate ,362.1642,363.1720,190.10,Predicted,28.66,Predicted
+383,2-Benzyl-2-dimethylamino-4'-morpholinobutyrophenone,366.2302,367.2380,196.42,Predicted,25.22,Predicted
+384,Ampicilloic acid,367.1197,368.1275,187.04,Predicted,26.43,Predicted
+385,Heptachloronaphthalene 73,367.7864,368.7942,166.83,Predicted,21.33,Predicted
+386,Heptachloronaphthalene 74,367.7864,368.7942,169.25,Predicted,21.73,Predicted
+387,Tricresyl phosphate,368.1172,369.1250,188.09,Measured,23.47,Predicted
+388,Perindopril,368.2306,369.2384,188.01,Predicted,23.78,Predicted
+389,"2,4,6-Tribromophenyl allyl ether",369.8022,370.8100,163.11,Predicted,15.14,Predicted
+390,Dicofol,369.9062,370.9140,172.34,Predicted,20.91,Predicted
+391,Decamethylcylopentasiloxane ,370.0935,371.1013,187.09,Predicted,9.70,Predicted
+392,"4,4'-Bis(dimethylamino)-4''-(methylamino)trityl alcohol",375.2306,376.2384,194.04,Predicted,26.58,Predicted
+393,"2,2',4,4',6,6'-Hexachlorodiphenyl ether",375.8359,376.8437,176.13,Predicted,21.46,Predicted
+394,"2,2',4,4',5,5'-Hexachlorodiphenyl ether",375.8359,376.8437,179.36,Predicted,21.59,Predicted
+395,"2,2',3,4,4',6-Hexachlorodiphenyl ether",375.8359,376.8437,174.15,Predicted,21.61,Predicted
+396,"2,2',3,4,5',6-Hexachlorodiphenyl ether",375.8359,376.8437,174.91,Predicted,21.67,Predicted
+397,"2,2',3,4',5,6-Hexachlorodiphenyl ether",375.8359,376.8437,175.97,Predicted,21.69,Predicted
+398,"2,2',3,4',5,6'-Hexachlorodiphenyl ether",375.8359,376.8437,178.10,Predicted,21.70,Predicted
+399,"2,3,3',4,5',6-Hexachlorodiphenyl ether",375.8359,376.8437,175.13,Predicted,21.70,Predicted
+400,"2,2',3,4,4',6'-Hexachlorodiphenyl ether",375.8359,376.8437,175.34,Predicted,21.71,Predicted
+401,"2,2',3,3',5,5'-Hexachlorodiphenyl ether",375.8359,376.8437,180.07,Predicted,21.73,Predicted
+402,"2,2',3,3',4,5'-Hexachlorodiphenyl ether",375.8359,376.8437,178.48,Predicted,21.75,Predicted
+403,"2,3',4,4',5,5'-Hexachlorodiphenyl ether",375.8359,376.8437,179.20,Predicted,21.77,Predicted
+404,"2,2',3,5,5',6-Hexachlorodiphenyl ether",375.8359,376.8437,176.77,Predicted,21.80,Predicted
+405,"2,3,3',5,5',6-Hexachlorodiphenyl ether",375.8359,376.8437,177.83,Predicted,21.82,Predicted
+406,"2,2',3,3',4,6-Hexachlorodiphenyl ether",375.8359,376.8437,174.71,Predicted,21.82,Predicted
+407,"2,2',3,4',6,6'-Hexachlorodiphenyl ether",375.8359,376.8437,174.57,Predicted,21.83,Predicted
+408,"2,2',3,3',5,6'-Hexachlorodiphenyl ether",375.8359,376.8437,175.33,Predicted,21.88,Predicted
+409,"2,2',3,4',5,5'-Hexachlorodiphenyl ether",375.8359,376.8437,179.96,Predicted,21.90,Predicted
+410,"2,2',4,4',5,6'-Hexachlorodiphenyl ether",375.8359,376.8437,177.13,Predicted,21.91,Predicted
+411,"2,2',3,4,4',5'-Hexachlorodiphenyl ether",375.8359,376.8437,178.82,Predicted,21.91,Predicted
+412,"2,2',3,4,4',5-Hexachlorodiphenyl ether",375.8359,376.8437,176.86,Predicted,21.92,Predicted
+413,"2,2',3,3',5,6-Hexachlorodiphenyl ether",375.8359,376.8437,176.99,Predicted,21.97,Predicted
+414,"2,3,4,4',5,6-Hexachlorodiphenyl ether",375.8359,376.8437,172.81,Predicted,22.01,Predicted
+415,"2,2',3,4',5',6-Hexachlorodiphenyl ether",375.8359,376.8437,174.56,Predicted,22.03,Predicted
+416,"2,2',3,3',4,4'-Hexachlorodiphenyl ether",375.8359,376.8437,177.96,Predicted,22.04,Predicted
+417,"2,2',3,4,5,6-Hexachlorodiphenyl ether",375.8359,376.8437,171.46,Predicted,22.10,Predicted
+418,"2,3,3',4',5,6-Hexachlorodiphenyl ether",375.8359,376.8437,178.78,Predicted,22.13,Predicted
+419,"2,2',3,4,5,5'-Hexachlorodiphenyl ether",375.8359,376.8437,176.39,Predicted,22.14,Predicted
+420,"2,3,3',4,5,5'-Hexachlorodiphenyl ether",375.8359,376.8437,177.75,Predicted,22.15,Predicted
+421,"2,2',3,3',4,6'-Hexachlorodiphenyl ether",375.8359,376.8437,173.08,Predicted,22.16,Predicted
+422,"2,3,3',4,4',6-Hexachlorodiphenyl ether",375.8359,376.8437,175.42,Predicted,22.21,Predicted
+423,"2,2',3,4,6,6'-Hexachlorodiphenyl ether",375.8359,376.8437,170.21,Predicted,22.30,Predicted
+424,"2,3,3',4,5,6-Hexachlorodiphenyl ether",375.8359,376.8437,172.03,Predicted,22.34,Predicted
+425,"2,2',3,3',4,5-Hexachlorodiphenyl ether",375.8359,376.8437,177.90,Predicted,22.36,Predicted
+426,"2,2',3,5,6,6'-Hexachlorodiphenyl ether",375.8359,376.8437,171.41,Predicted,22.38,Predicted
+427,"2,2',3,3',6,6'-Hexachlorodiphenyl ether",375.8359,376.8437,171.81,Predicted,22.44,Predicted
+428,"2,3,3',4,4',5-Hexachlorodiphenyl ether",375.8359,376.8437,177.82,Predicted,22.44,Predicted
+429,"2,2',3,4,5,6'-Hexachlorodiphenyl ether",375.8359,376.8437,170.47,Predicted,22.69,Predicted
+430,"3,3',4,4',5,5'-Hexachlorodiphenyl ether",375.8359,376.8437,179.58,Predicted,22.72,Predicted
+431,"2,3,3',4,4',5'-Hexachlorodiphenyl ether",375.8359,376.8437,178.73,Predicted,22.87,Predicted
+432,"2,3,3',4',5,5'-Hexachlorodiphenyl ether",375.8359,376.8437,179.26,Predicted,22.96,Predicted
+433,"2,3',4,4',5',6-Hexachlorodiphenyl ether",375.8359,376.8437,177.04,Predicted,23.02,Predicted
+434,"2,3,3',4',5',6-Hexachlorodiphenyl ether",375.8359,376.8437,174.25,Predicted,23.10,Predicted
+435,Di(n-octyl) phthalate,390.2765,391.2843,209.85,Predicted,22.43,Measured
+436,Di(2-ethylhexyl) phthalate,390.2765,391.2843,212.17,Measured,22.27,Measured
+437,Sucralose,396.0141,397.0219,179.16,Measured,23.44,Predicted
+438,2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethanol,396.2871,397.2949,200.15,Predicted,26.02,Predicted
+439,Tris(2-butoxyethyl) phosphate,398.2428,399.2506,197.82,Measured,18.52,Measured
+440,Octachloronaphthalene 75,403.7445,404.7523,172.27,Predicted,22.77,Predicted
+441,Endosulfan,405.8135,406.8213,175.48,Predicted,19.63,Measured
+442,Amlodipin,408.1447,409.1525,189.77,Measured,18.34,Predicted
+443,"2,2',3,3',5,6,6'-Heptachlorodiphenyl ether",409.7970,410.8048,180.33,Predicted,18.51,Predicted
+444,"2,2',3,4,4',5',6-Heptachlorodiphenyl ether",409.7970,410.8048,180.66,Predicted,22.86,Predicted
+445,"2,2',3,4',5,5',6-Heptachlorodiphenyl ether",409.7970,410.8048,182.72,Predicted,22.93,Predicted
+446,"2,3,3',4,4',5',6-Heptachlorodiphenyl ether",409.7970,410.8048,180.39,Predicted,23.06,Predicted
+447,"2,3,3',4',5,5',6-Heptachlorodiphenyl ether",409.7970,410.8048,183.91,Predicted,23.09,Predicted
+448,"2,2',3,4,4',6,6'-Heptachlorodiphenyl ether",409.7970,410.8048,179.89,Predicted,23.15,Predicted
+449,"2,2',3,4,4',5,6-Heptachlorodiphenyl ether",409.7970,410.8048,176.82,Predicted,23.15,Predicted
+450,"2,2',3,3',4,4',6-Heptachlorodiphenyl ether",409.7970,410.8048,179.91,Predicted,23.20,Predicted
+451,"2,2',3,3',4',5,6-Heptachlorodiphenyl ether",409.7970,410.8048,181.60,Predicted,23.24,Predicted
+452,"2,2',3,3',4,5',6-Heptachlorodiphenyl ether",409.7970,410.8048,180.89,Predicted,23.27,Predicted
+453,"2,2',3,3',5,5',6-Heptachlorodiphenyl ether",409.7970,410.8048,183.82,Predicted,23.30,Predicted
+454,"2,3,3',4,5,5',6-Heptachlorodiphenyl ether",409.7970,410.8048,178.68,Predicted,23.31,Predicted
+455,"2,2',3,4,5,5',6-Heptachlorodiphenyl ether",409.7970,410.8048,178.53,Predicted,23.33,Predicted
+456,"2,2',3,4,4',5,5'-Heptachlorodiphenyl ether",409.7970,410.8048,183.56,Predicted,23.33,Predicted
+457,"2,3,3',4,4',5,5'-Heptachlorodiphenyl ether",409.7970,410.8048,183.82,Predicted,23.35,Predicted
+458,"2,2',3,3',4,5,6-Heptachlorodiphenyl ether",409.7970,410.8048,178.45,Predicted,23.41,Predicted
+459,"2,2',3,3',4,6,6'-Heptachlorodiphenyl ether",409.7970,410.8048,178.83,Predicted,23.41,Predicted
+460,"2,2',3,3',4,4',5-Heptachlorodiphenyl ether",409.7970,410.8048,183.55,Predicted,23.50,Predicted
+461,"2,2',3,3',4,5,5'-Heptachlorodiphenyl ether",409.7970,410.8048,184.87,Predicted,23.56,Predicted
+462,"2,2',3,4,4',5,6'-Heptachlorodiphenyl ether",409.7970,410.8048,180.94,Predicted,23.62,Predicted
+463,"2,2',3,3',4,5,6'-Heptachlorodiphenyl ether",409.7970,410.8048,178.33,Predicted,23.70,Predicted
+464,"2,3,3',4,4',5,6-Heptachlorodiphenyl ether",409.7970,410.8048,179.74,Predicted,23.74,Predicted
+465,"2,2',3,4,5,6,6'-Heptachlorodiphenyl ether",409.7970,410.8048,174.05,Predicted,23.84,Predicted
+466,"Bis(3,5,5-trimethylhexyl) phthalate",418.3078,419.3156,212.60,Predicted,23.00,Predicted
+467,Di-iso-nonyl phthalate,418.3078,419.3156,223.49,Measured,23.45,Measured
+468,"1,2,4,5-Tetrabromo-3,6-dimethylbenzene",421.7157,422.7235,167.99,Predicted,17.42,Predicted
+469,"4-(1,2-Dibromoethyl)-1,2-dibromocyclohexane ",427.7627,428.7705,169.31,Predicted,17.45,Predicted
+470,"Tris(1,3-dichloro-2-propyl)phosphate",429.8805,430.8883,175.18,Measured,21.09,Predicted
+471,Tris(2-ethylhexyl)phosphate,434.3520,435.3598,220.38,Measured,22.03,Measured
+472,"14-(Nonylphenoxy)-3,6,9,12-tetraoxatetradecan-1-ol",440.3133,441.3211,208.01,Predicted,27.11,Predicted
+473,"14-(4-Nonylphenoxy)-3,6,9,12-tetraoxatetradecan-1-ol",440.3133,441.3211,208.91,Predicted,27.96,Predicted
+474,Tetrabromo-o-chlorotoluene ,441.6609,442.6687,170.87,Predicted,23.45,Predicted
+475,Dodecamethylcyclohexasiloxane ,444.1123,445.1201,186.67,Predicted,11.48,Predicted
+476,"2,2',3,3',4,4',6,6'-Octachlorodiphenyl ether",445.7551,446.7629,183.88,Predicted,24.35,Predicted
+477,"2,2',3,4,4',5,5',6-Octachlorodiphenyl ether",445.7551,446.7629,183.00,Predicted,24.36,Predicted
+478,"2,2',3,3',4,5',6,6'-Octachlorodiphenyl ether",445.7551,446.7629,187.46,Predicted,24.45,Predicted
+479,"2,2',3,3',5,5',6,6'-Octachlorodiphenyl ether",445.7551,446.7629,189.12,Predicted,24.48,Predicted
+480,"2,2',3,3',4,4',5,5'-Octachlorodiphenyl ether",445.7551,446.7629,189.10,Predicted,24.51,Predicted
+481,"2,3,3',4,4',5,5',6-Octachlorodiphenyl ether",445.7551,446.7629,184.49,Predicted,24.52,Predicted
+482,"2,2',3,4,4',5,6,6'-Octachlorodiphenyl ether",445.7551,446.7629,182.92,Predicted,24.64,Predicted
+483,"2,2',3,3',4,4',5,6-Octachlorodiphenyl ether",445.7551,446.7629,182.54,Predicted,24.66,Predicted
+484,"2,2',3,3',4,5,5',6-Octachlorodiphenyl ether",445.7551,446.7629,183.62,Predicted,24.72,Predicted
+485,"2,2',3,3',4,5,5',6'-Octachlorodiphenyl ether",445.7551,446.7629,185.44,Predicted,24.73,Predicted
+486,"2,2',3,3',4,4',5,6'-Octachlorodiphenyl ether",445.7551,446.7629,183.01,Predicted,24.79,Predicted
+487,"2,2',3,3',4,5,6,6'-Octachlorodiphenyl ether",445.7551,446.7629,180.98,Predicted,24.87,Predicted
+488,Di-iso-decyl phthalate,446.3391,447.3469,227.85,Measured,24.41,Measured
+489,"2-Bromoallyl-2,4,6-tribromophenyl ether",449.7107,450.7185,164.90,Predicted,18.39,Predicted
+490,Pentabromobenzene,471.5949,472.6027,170.78,Predicted,18.41,Predicted
+491,Diundecyl phthalate,474.3704,475.3782,230.76,Predicted,19.06,Predicted
+492,"2,2',3,3',4,4',5,6,6'-Nonachlorodiphenyl ether",479.7161,480.7239,185.98,Predicted,25.79,Predicted
+493,"2,2',3,3',4,4',5,5',6-Nonachlorodiphenyl ether",479.7161,480.7239,186.27,Predicted,25.83,Predicted
+494,"2,2',3,3',4,5,5',6,6'-Nonachlorodiphenyl ether",479.7161,480.7239,188.84,Predicted,25.87,Predicted
+495,Tetrabromophthalate,481.6641,482.6719,183.66,Predicted,23.29,Predicted
+496,"17-(Nonylphenoxy)-3,6,9,12,15-pentaoxaheptadecan-1-ol ",484.3395,485.3473,218.06,Predicted,29.20,Predicted
+497,"17-(4-Nonylphenoxy)-3,6,9,12,15-pentaoxaheptadecan-1-ol",484.3395,485.3473,219.18,Predicted,30.12,Predicted
+498,Pentabromotoluene ,485.6106,486.6184,180.57,Predicted,19.37,Predicted
+499,"α,α-Bis[4-(dimethylamino)phenyl]-4 (phenylamino)naphthalene-1-methanol",487.2619,488.2697,222.03,Predicted,36.00,Predicted
+500,Pentabromoethylbenzene ,499.6262,500.6340,190.14,Predicted,24.06,Predicted
+501,Decachlorodiphenyl ether,513.6771,514.6849,191.31,Predicted,27.10,Predicted
+502,"20-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]-3,6,9,12,15,18-hexaoxaicosan-1-ol",514.3501,515.3579,224.10,Predicted,29.79,Predicted
+503,N-ethyl perfluorooctanesulfonamide,526.9843,527.9921,178.42,Measured,24.04,Predicted
+504,"20-(Isononylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol",528.3657,529.3735,228.51,Predicted,31.21,Predicted
+505,"20-(Nonylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol",528.3657,529.3735,227.87,Predicted,31.62,Predicted
+506,"20-(4-Nonylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol",528.3657,529.3735,228.42,Predicted,32.78,Predicted
+507,"2,4,6-Tribromophenyl 2,3-dibromopropyl ether",529.6368,530.6446,174.52,Predicted,22.08,Predicted
+508,Tetrabromobisphenol A,543.7526,544.7604,193.10,Measured,26.05,Predicted
+509,Undecachloropentacyclooctadecadiene,545.6169,546.6247,185.22,Predicted,22.27,Measured
+510,"2-Ethylhexyl 2,3,4,5-tetrabromobenzoate ",549.7995,550.8073,213.35,Predicted,21.15,Predicted
+511,Hexabromobenzene,551.5034,552.5112,187.02,Predicted,21.22,Predicted
+512,Pentabromobenzyl acrylate ,555.6161,556.6239,204.40,Predicted,23.84,Predicted
+513,N-methyl perfluorooctanesulfonamide ethanol,556.9948,558.0026,191.60,Predicted,14.79,Predicted
+514,"23-(Nonylphenoxy)-3,6,9,12,15,18,21-heptaoxatricosan-1-ol",572.3919,573.3997,236.83,Predicted,36.40,Predicted
+515,Tetrekis(2-chlorethyl) dichloroisopentyldiphosphate,581.9044,582.9122,211.74,Measured,27.12,Predicted
+516,"26-(Nonylphenoxy)-3,6,9,12,15,18,21,24-octaoxahexacosan-1-ol",602.4025,603.4103,242.85,Predicted,39.56,Predicted
+517,Tris(2-bromo-4-methylphenyl) phosphate,603.8468,604.8546,211.75,Predicted,28.05,Predicted
+518,N-methyl perfluorooctanesulfonamide ethylacrylate,611.0054,612.0132,207.23,Predicted,21.21,Predicted
+519,alpha-Hexabromocyclododecane,641.6443,642.6521,190.46,Predicted,25.11,Predicted
+520,Beta-hexabromocyclododecane,641.6443,642.6521,191.43,Predicted,25.11,Predicted
+521,Gamma-hexabromocyclododecane,641.6443,642.6521,191.85,Predicted,25.11,Predicted
+522,syn-Dodecachlorodimethanodibenzocyclooctane,653.7110,654.7188,228.14,Predicted,26.66,Predicted
+523,anti-Dodecachlorodimethanodibenzocyclooctane,653.7110,654.7188,228.24,Predicted,26.66,Predicted
+524,Dechlorane 604,691.5101,692.5179,210.15,Predicted,25.74,Predicted
+525,Bis(2-ethylhexyl) tetrabromophthalate,705.9147,706.9225,267.37,Predicted,25.04,Predicted
+526,Levothyroxine,776.6862,777.6940,212.89,Predicted,33.59,Predicted
+527,"1-[2,3-Dibromo-4-methyl-5,6-bis(tribromomethyl)phenyl]-2,3-dihydro-1H-indene",867.4320,868.4398,244.80,Predicted,32.97,Predicted
+528,"Octabromo-2,3-dihydro-1,1,3-trimethyl-3-phenyl-1H-indene",867.4320,868.4398,233.49,Predicted,36.84,Predicted
+529,"2,4,5,6,7-Pentabromo-1,1,3-trimethyl-3-(2,4,6-tribromophenyl)-2,3-dihydro-1H-indene",867.4320,868.4398,241.14,Predicted,37.76,Predicted
+530,Tris(tribromoneopentyl)phosphate,1017.3977,1018.4055,249.70,Predicted,35.27,Predicted
