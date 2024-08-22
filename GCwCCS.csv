@@ -1,0 +1,1369 @@
+﻿Entry,Substance,M+.,[M+H]+,CCS,SourceCCS,RT,SourceRT
+1,Aniline,93.0573,94.0651,120.28,Measured,7.91,Measured
+2,4-Pyridinamine,94.0526,95.0604,117.80,Measured,7.79,Measured
+3,Benzaldehyde,106.0414,107.0492,119.62,Measured,7.95,Measured
+4,2-Methylaniline,107.0730,108.0808,125.50,Measured,8.34,Measured
+5,"1,4-Benzenediamine",108.0682,109.0760,122.53,Measured,10.84,Measured
+6,Histamine,111.0791,112.0869,120.30,Measured,10.82,Measured
+7,Caprolactam,113.0836,114.0914,123.40,Measured,9.44,Measured
+8,3-Methyl-1H-imidazole-2-thione,114.0247,115.0325,116.93,Measured,7.59,Predicted
+9,2-Methyl-3(2H)-iso-thiazolone,115.0087,116.0165,120.31,Measured,8.78,Predicted
+10,Hexanamide,115.0992,116.1070,131.20,Measured,8.44,Predicted
+11,Indole,117.0573,118.0651,121.28,Measured,9.75,Measured
+12,Benzotriazole,119.0478,120.0556,122.67,Measured,11.60,Measured
+13,"N,N-Dimethyl-benzenamine",121.0886,122.0964,127.00,Measured,7.16,Measured
+14,"2,6-Dimethylaniline",121.0886,122.0964,130.45,Measured,8.80,Measured
+15,"2,4-Dimethylaniline",121.0886,122.0964,130.42,Measured,9.13,Measured
+16,Benzoic acid,122.0363,123.0441,122.20,Measured,9.16,Measured
+17,4-Hydroxybenzaldehyde,122.0363,123.0441,136.33,Measured,12.13,Measured
+18,Niacinamide,122.0475,123.0553,122.50,Measured,11.99,Measured
+19,2-Phenylethanol,122.0727,123.0805,121.20,Measured,8.92,Measured
+20,"2,4-Diaminotoluene",122.0839,123.0917,123.30,Measured,10.04,Predicted
+21,"3,4-Diaminotoluene",122.0839,123.0917,128.82,Measured,10.35,Predicted
+22,"2,6-Diaminotoluene",122.0839,123.0917,123.30,Measured,10.98,Measured
+23,Niacin,123.0315,124.0393,119.40,Measured,9.72,Measured
+24,Pyrazinamide,123.0428,124.0506,121.45,Measured,10.00,Predicted
+25,2-Anisidine,123.0679,124.0757,128.02,Measured,8.16,Measured
+26,Maltol,126.0312,127.0390,117.70,Measured,8.03,Measured
+27,Melamine,126.0649,127.0727,123.48,Measured,13.07,Predicted
+28,p-Chloroaniline,127.0184,128.0262,130.82,Measured,8.91,Measured
+29,"4-Hydroxy-2,5-dimethyl-3(2H)furanone",128.0468,129.0546,123.41,Measured,7.53,Predicted
+30,Dimethadione,129.0421,130.0499,123.50,Measured,7.73,Measured
+31,Metformin,129.1009,130.1087,122.45,Measured,11.38,Predicted
+32,Di-n-butylamine,129.1512,130.1590,137.32,Measured,9.40,Measured
+33,5-Fluorouracil,130.0174,131.0252,118.10,Measured,12.35,Measured
+34,Aminocaproic acid,131.0941,132.1019,130.20,Measured,10.11,Measured
+35,(2E)-3-Phenylprop-2-enal,132.0570,133.0648,123.79,Measured,9.52,Measured
+36,5-Methyl-1H-benzotriazole,133.0635,134.0713,125.60,Measured,12.37,Measured
+37,4-Methyl-1H-benzotriazole,133.0635,134.0713,125.95,Measured,17.33,Measured
+38,Tranylcypromine,133.0886,134.0964,127.60,Measured,9.20,Measured
+39,N-phenylacetamide,135.0679,136.0757,124.65,Measured,10.63,Measured
+40,"2,4,5-Trimethylaniline",135.1043,136.1121,136.92,Measured,9.16,Predicted
+41,Allopurinol,136.0380,137.0458,122.50,Measured,13.23,Predicted
+42,Betahistine,136.0995,137.1073,125.20,Measured,8.95,Predicted
+43,Camphene,136.1247,137.1325,129.80,Measured,9.96,Measured
+44,Salicylamide,137.0472,138.0550,122.20,Measured,12.65,Measured
+45,Isoniazid,137.0584,138.0662,125.20,Measured,12.59,Predicted
+46,2-Methoxy-5-methylaniline,137.0836,138.0914,132.14,Measured,8.62,Measured
+47,Tyramine,137.0836,138.0914,122.60,Measured,16.71,Measured
+48,p-Nitroaniline,138.0424,139.0502,126.19,Measured,10.72,Measured
+49,"2,4-Diaminoanisole",138.0788,139.0866,131.90,Measured,11.94,Predicted
+50,Pentylenetetrazol,138.0900,139.0978,126.19,Measured,13.89,Measured
+51,3-Nitrophenol,139.0264,140.0342,119.82,Measured,10.19,Measured
+52,4-Nitrophenol,139.0264,140.0342,119.79,Measured,10.56,Measured
+53,Methenamine,140.1057,141.1135,126.55,Measured,9.29,Predicted
+54,Methamidophos,141.0008,142.0086,122.43,Measured,9.31,Predicted
+55,5-Chloro-2-methylaniline,141.0340,142.0418,132.86,Measured,10.17,Predicted
+56,Dimetridazole,141.0533,142.0611,124.82,Measured,9.43,Predicted
+57,"N,6-Dimethyl-5-hepten-2-amine",141.1512,142.1590,135.62,Measured,7.49,Measured
+58,4-Chloro-3-methylphenol,142.0180,143.0258,124.65,Measured,9.23,Measured
+59,Methylthiouracil,142.0196,143.0274,123.05,Measured,12.07,Predicted
+60,1-Methylnaphthalene,142.0778,143.0856,123.49,Measured,9.06,Measured
+61,2-Methylnaphthalene,142.0778,143.0856,123.19,Measured,9.41,Measured
+62,1-Naphthalenamine,143.0730,144.0808,128.77,Measured,11.26,Measured
+63,2-Naphthalenamine,143.0730,144.0808,127.31,Measured,12.97,Measured
+64,Thiobarbituric acid,143.9988,145.0066,125.35,Measured,11.75,Predicted
+65,1-Naphthol,144.0570,145.0648,125.28,Measured,11.10,Measured
+66,Valproic Acid,144.1145,145.1223,115.20,Measured,8.69,Predicted
+67,8-Hydroxyquinoline,145.0523,146.0601,124.72,Measured,11.03,Measured
+68,Coumarin,146.0363,147.0441,122.66,Measured,9.74,Measured
+69,Hexanedioic acid,146.0574,147.0652,126.19,Measured,12.10,Measured
+70,Myosmine,146.0839,147.0917,128.20,Measured,11.30,Predicted
+71,"5,6-Dimethyl-1H-benzotriazole",147.0791,148.0869,131.25,Measured,15.82,Measured
+72,Phthalic anhydride,148.0155,149.0233,122.67,Measured,9.56,Measured
+73,E-Cinnamic acid,148.0519,149.0597,144.40,Measured,12.79,Measured
+74,5-Chloro-2-methyl-3(2H)-isothiazolone,148.9697,149.9775,122.28,Measured,9.42,Predicted
+75,Triethanolamine,149.1047,150.1125,130.59,Measured,12.88,Measured
+76,"1,2-Benzisothiazolin-3-one",151.0087,152.0165,127.53,Measured,11.95,Predicted
+77,"1,3-Benzothiazol-2(3H)-one",151.0087,152.0165,123.75,Measured,13.85,Measured
+78,Amantadine,151.1356,152.1434,137.85,Measured,13.05,Measured
+79,Methylparaben,152.0468,153.0546,126.10,Measured,10.12,Measured
+80,4-Hydroxy-3-methoxybenzaldehyde,152.0468,153.0546,129.42,Measured,10.94,Measured
+81,2-Methyl-5-nitroaniline,152.0581,153.0659,137.25,Measured,13.01,Predicted
+82,Thujone,152.1196,153.1274,140.90,Measured,7.96,Measured
+83,Camphor,152.1196,153.1274,141.90,Measured,8.45,Measured
+84,Aminosalicylic acid,153.0421,154.0499,133.50,Measured,15.54,Predicted
+85,Patulin,154.0261,155.0339,128.46,Measured,10.56,Predicted
+86,"2,6-Dimethoxyphenol",154.0625,155.0703,131.46,Measured,8.11,Measured
+87,Linalool,154.1353,155.1431,154.42,Measured,11.46,Measured
+88,Nitrogen mustard,155.0264,156.0342,126.50,Measured,7.66,Measured
+89,Arecoline,155.0941,156.1019,131.00,Measured,9.13,Predicted
+90,Bemegride,155.0941,156.1019,130.50,Measured,10.41,Measured
+91,Benzedrex,155.1669,156.1747,143.65,Measured,9.24,Measured
+92,Orotic acid,156.0166,157.0244,125.80,Measured,14.78,Measured
+93,"1,2-Dimethylnaphthalene",156.0934,157.1012,128.35,Measured,9.90,Measured
+94,"2,6-Dimethylnaphthalene",156.0934,157.1012,126.30,Measured,10.25,Measured
+95,"2,7-Dimethylnaphthalene",156.0934,157.1012,130.25,Measured,11.17,Measured
+96,"1,4-Dimethylnaphthalene",156.0934,157.1012,126.90,Measured,11.53,Measured
+97,"1,6-Dimethylnaphthalene",156.0934,157.1012,127.82,Measured,11.76,Measured
+98,"1,4-Naphthalenedione",158.0363,159.0441,130.04,Measured,11.52,Measured
+99,"1,5-Naphthalenediamine",158.0839,159.0917,132.17,Measured,15.71,Predicted
+100,Pargyline,159.1043,160.1121,133.90,Measured,9.48,Measured
+101,Tolazoline,160.0995,161.1073,133.90,Measured,11.84,Measured
+102,1H-Indole-3-ethanamine,160.0995,161.1073,127.60,Measured,19.72,Measured
+103,"2,4-Dichloroaniline",160.9794,161.9872,133.53,Measured,9.61,Measured
+104,"1,1'-Carbonyldiimidazole",162.0537,163.0615,131.99,Measured,13.83,Predicted
+105,Safrole,162.0676,163.0754,138.60,Measured,8.72,Measured
+106,Nicotine,162.1152,163.1230,135.42,Measured,10.59,Measured
+107,N-Ethylamphetamine,163.1356,164.1434,136.73,Measured,9.48,Measured
+108,"N,N-Dimethyl-N-phenylurea",164.0945,165.1023,134.90,Measured,13.19,Predicted
+109,Jasmone (I),164.1196,165.1274,137.00,Measured,10.53,Predicted
+110,"4-N,4-N-Diethylbenzene-1,4-diamine",164.1308,165.1386,137.39,Measured,11.98,Predicted
+111,Benzocaine,165.0785,166.0863,145.73,Measured,15.39,Measured
+112,Ephedrine,165.1149,166.1227,135.73,Measured,11.26,Measured
+113,Ethionamide,166.0560,167.0638,134.80,Measured,11.96,Predicted
+114,Ethylparaben,166.0625,167.0703,129.84,Measured,11.29,Measured
+115,Cyromazine,166.0962,167.1040,134.28,Measured,14.88,Predicted
+116,4-(2-Aminoethyl)-2-methoxyphenol,167.0941,168.1019,146.90,Measured,13.05,Predicted
+117,Zoxazolamine,168.0085,169.0163,129.20,Measured,14.48,Predicted
+118,"9H-Pyrido[3,4-b]indole",168.0682,169.0760,132.20,Measured,17.60,Predicted
+119,Chlorzoxazone,168.9926,170.0004,128.50,Measured,11.33,Measured
+120,Norepinephrine,169.0734,170.0812,133.39,Measured,18.91,Measured
+121,Ipronidazole,169.0846,170.0924,132.56,Measured,11.05,Predicted
+122,"[1,1'-Biphenyl]-4-amine",169.0886,170.0964,145.04,Measured,13.83,Measured
+123,Diphenylamine ,169.0886,170.0964,137.24,Measured,13.94,Measured
+124,Propylthiouracil,170.0509,171.0587,133.80,Measured,13.98,Predicted
+125,2-Phenylphenol ,170.0727,171.0805,130.74,Measured,12.73,Measured
+126,Crimidine,171.0558,172.0636,133.80,Measured,11.61,Predicted
+127,Metronidazole,171.0639,172.0717,130.04,Measured,13.93,Measured
+128,Gabapentin,171.1254,172.1332,139.08,Measured,17.53,Measured
+129,Sulfanilamide,172.0301,173.0379,142.50,Measured,19.96,Measured
+130,Menadione,172.0519,173.0597,129.74,Measured,12.84,Measured
+131,Terpin Hydrate,172.1458,173.1536,151.21,Measured,10.46,Predicted
+132,Deisopropylatrazine,173.0463,174.0541,132.43,Measured,14.20,Measured
+133,"Toluene-2,4-di-iso-cyanate",174.0424,175.0502,133.57,Measured,8.18,Measured
+134,Ascorbic acid,176.0316,177.0394,133.00,Measured,16.91,Measured
+135,Pemoline,176.0581,177.0659,151.31,Measured,16.85,Predicted
+136,Serotonin,176.0945,177.1023,150.90,Measured,21.89,Measured
+137,Cotinine,176.0945,177.1023,140.90,Measured,14.95,Measured
+138,Metamfepramone,177.1149,178.1227,139.15,Measured,11.01,Predicted
+139,Phenmetrazine,177.1149,178.1227,138.90,Measured,11.59,Measured
+140,Phenacemide,178.0737,179.0815,128.30,Measured,15.27,Predicted
+141,Methyleugenol,178.0989,179.1067,137.17,Measured,9.19,Measured
+142,Butyl benzoate,178.0989,179.1067,136.29,Measured,10.64,Measured
+143,Nikethamide,178.1101,179.1179,143.22,Measured,11.34,Measured
+144,Hippuric acid,179.0577,180.0655,142.40,Measured,16.05,Measured
+145,Acridine,179.0730,180.0808,132.00,Measured,12.29,Measured
+146,"3,4-Methylenedioxy-amphetamine",179.0941,180.1019,125.11,Measured,12.51,Measured
+147,Phenacetin,179.0941,180.1019,139.78,Measured,14.40,Measured
+148,Mexiletine,179.1305,180.1383,145.25,Measured,11.49,Measured
+149,9H-Fluoren-9-one,180.0570,181.0648,132.08,Measured,12.81,Measured
+150,Aminophylline,180.0642,181.0720,132.67,Measured,17.32,Predicted
+151,Theobromine,180.0642,181.0720,130.54,Measured,13.43,Measured
+152,Protionamide,180.0716,181.0794,140.25,Measured,12.97,Predicted
+153,Propylparaben,180.0781,181.0859,141.35,Measured,12.42,Measured
+154,Bifenthrin,180.0934,181.1012,137.00,Measured,22.04,Measured
+155,2-(Methylthio)benzothiazole,181.0015,182.0093,131.32,Measured,10.84,Measured
+156,Adrenalone,181.0734,182.0812,138.20,Measured,15.96,Predicted
+157,Syringaldehyde,182.0574,183.0652,136.46,Measured,13.85,Predicted
+158,Homovanillic acid,182.0574,183.0652,136.30,Measured,15.15,Measured
+159,Benzophenone,182.0727,183.0805,136.18,Measured,13.11,Measured
+160,"1-Methyl-9H-pyrido[3,4-b]indole",182.0839,183.0917,136.60,Measured,17.98,Measured
+161,Epinephrine,183.0890,184.0968,139.04,Measured,17.06,Measured
+162,Dibenzothiophene,184.0342,185.0420,132.30,Measured,12.04,Measured
+163,Fuberidazole,184.0632,185.0710,136.05,Measured,15.97,Predicted
+164,Benzidine,184.0995,185.1073,151.62,Measured,16.61,Measured
+165,10-Undecenoic acid,184.1458,185.1536,154.92,Measured,14.19,Measured
+166,Carbimazole,186.0458,187.0536,132.65,Measured,14.34,Predicted
+167,Mafenide,186.0458,187.0536,139.32,Measured,17.12,Predicted
+168,Detomidine,186.1152,187.1230,145.30,Measured,17.54,Predicted
+169,Deethylatrazine,187.0620,188.0698,139.87,Measured,14.62,Measured
+170,Amrinone,187.0741,188.0819,139.00,Measured,19.45,Predicted
+171,Molinate,187.1026,188.1104,138.42,Measured,13.02,Measured
+172,Selegiline,187.1356,188.1434,141.55,Measured,12.05,Predicted
+173,Antipyrine,188.0945,189.1023,137.32,Measured,11.81,Measured
+174,"N,N-Dimethyltryptamine",188.1308,189.1386,143.50,Measured,15.76,Predicted
+175,Propamocarb,188.1520,189.1598,145.65,Measured,11.04,Predicted
+176,Tricyclazole,189.0356,190.0434,135.20,Measured,17.49,Predicted
+177,Thiotepa,189.0485,190.0563,130.50,Measured,12.29,Predicted
+178,Cytisine,190.1101,191.1179,137.90,Measured,19.10,Measured
+179,Diethyltoluamide,191.1305,192.1383,142.74,Measured,13.12,Measured
+180,Citric acid,192.0265,193.0343,128.09,Measured,15.54,Measured
+181,Myristicin,192.0781,193.0859,140.80,Measured,12.80,Measured
+182,1-Methyl phenanthrene,192.0934,193.1012,137.83,Measured,15.91,Predicted
+183,2-Methylanthracene,192.0934,193.1012,137.27,Measured,17.53,Measured
+184,Isoprocarb (I),193.1098,194.1176,145.80,Measured,12.90,Predicted
+185,"N-Methyl-3,4-methylenedioxyamphetamine",193.1098,194.1176,144.79,Measured,13.36,Predicted
+186,Butamben,193.1098,194.1176,158.50,Measured,13.68,Measured
+187,"Dimethyl benzene-1,3-dicarboxylate",194.0574,195.0652,141.19,Measured,9.37,Measured
+188,Dimethyl terephthalate,194.0574,195.0652,139.95,Measured,9.73,Measured
+189,9-Phenanthrenol,194.0727,195.0805,136.78,Measured,17.60,Predicted
+190,Caffeine,194.0799,195.0877,137.24,Measured,16.30,Measured
+191,9-Acridinamine,194.0839,195.0917,136.80,Measured,19.01,Predicted
+192,Hexylresorcinol,194.1302,195.1380,139.30,Measured,15.72,Measured
+193,Salicylurate,195.0527,196.0605,137.50,Measured,18.20,Measured
+194,"2,4,6-Trichlorophenol",195.9244,196.9322,126.23,Measured,10.12,Measured
+195,"2,3,4-Trichlorophenol",195.9244,196.9322,126.91,Measured,10.97,Measured
+196,Beclamide,197.0602,198.0680,142.30,Measured,14.81,Measured
+197,Levodopa,197.0683,198.0761,146.72,Measured,18.38,Measured
+198,Desethylterbumeton,197.1272,198.1350,145.70,Measured,15.43,Predicted
+199,"4,4'-Methylenebis(2-chloroaniline)",198.1152,199.1230,158.25,Measured,19.41,Predicted
+200,Tacrine,198.1152,199.1230,140.00,Measured,19.48,Measured
+201,"3-cyclooctyl-1,1-dimethylurea",198.1727,199.1805,150.25,Measured,16.07,Measured
+202,Pyrimethanil,199.1104,200.1182,143.77,Measured,15.87,Predicted
+203,Diethylcarbamazine,199.1680,200.1758,143.20,Measured,14.67,Predicted
+204,(4-Chloro-2-methylphenoxy)acetic acid,200.0235,201.0313,146.16,Measured,14.19,Predicted
+205,Ronidazole,200.0541,201.0619,136.05,Measured,15.86,Predicted
+206,"4,4'-Oxydianiline",200.0945,201.1023,156.99,Measured,19.34,Predicted
+207,Tetrahydrozoline,200.1308,201.1386,144.75,Measured,16.60,Predicted
+208,Dodecanoic acid,200.1771,201.1849,159.70,Measured,13.85,Measured
+209,Carzenide,201.0091,202.0169,138.82,Measured,15.70,Predicted
+210,Thiabendazole,201.0356,202.0434,138.00,Measured,18.82,Measured
+211,Simazine,201.0776,202.0854,143.14,Measured,13.44,Measured
+212,Desethylterbuthylazine,201.0776,202.0854,144.26,Measured,14.46,Measured
+213,Carbaryl,201.0785,202.0863,150.00,Measured,14.24,Measured
+214,Metamitron,202.0850,203.0928,142.25,Measured,19.29,Measured
+215,(+/-)-Norfenfluramine,203.0917,204.0995,147.32,Measured,8.46,Measured
+216,Ampyrone,203.1054,204.1132,143.34,Measured,14.77,Measured
+217,Levamisole,204.0716,205.0794,142.55,Measured,18.28,Predicted
+218,Tetramisole,204.0716,205.0794,142.60,Measured,18.28,Predicted
+219,Psilocin,204.1258,205.1336,144.80,Measured,17.65,Measured
+220,Ethambutol,204.1833,205.1911,146.60,Measured,14.49,Predicted
+221,Phenformin,205.1322,206.1400,145.15,Measured,17.21,Predicted
+222,Diethylpropion,205.1462,206.1540,147.35,Measured,12.29,Measured
+223,Dicloran,205.9645,206.9723,132.63,Measured,15.02,Measured
+224,2-Ethyl-2-phenylpropanediamide,206.1050,207.1128,143.80,Measured,17.14,Measured
+225,"3,6-Dimethylphenanthrene",206.1091,207.1169,144.44,Measured,18.34,Measured
+226,Isoproturon,206.1414,207.1492,152.39,Measured,15.85,Predicted
+227,"4-(1,1,3,3-Tetramethylbutyl)phenol",206.1666,207.1744,156.73,Measured,13.86,Predicted
+228,Cashmeran ,206.1666,207.1744,148.04,Measured,12.43,Measured
+229,"2,4-Di-tert-butylphenol",206.1666,207.1744,152.29,Measured,12.93,Measured
+230,"3,4-Methylenedioxy-N-ethylamphetamine",207.1254,208.1332,147.05,Measured,13.66,Predicted
+231,Promecarb,207.1254,208.1332,150.39,Measured,13.88,Predicted
+232,"9,10-Anthracenedione",208.0519,209.0597,139.40,Measured,15.33,Measured
+233,Aminocarb,208.1207,209.1285,152.40,Measured,15.37,Predicted
+234,Pilocarpine,208.1207,209.1285,146.05,Measured,18.55,Measured
+235,Propoxur (I),209.1047,210.1125,149.10,Measured,12.69,Measured
+236,Acibenzolar-S-methyl,209.9917,210.9995,136.55,Measured,17.01,Predicted
+237,3-Amino-9-ethylcarbazole,210.1152,211.1230,155.62,Measured,19.53,Predicted
+238,Naphazoline,210.1152,211.1230,148.83,Measured,17.91,Measured
+239,Milrinone,211.0741,212.0819,150.50,Measured,18.63,Predicted
+240,Propachlor,211.0759,212.0837,142.70,Measured,13.81,Measured
+241,Mefenorex,211.1123,212.1201,146.62,Measured,13.81,Predicted
+242,Methoxamine,211.1203,212.1281,143.50,Measured,15.41,Predicted
+243,Isoproterenol,211.1203,212.1281,149.70,Measured,17.61,Predicted
+244,Metaproterenol,211.1203,212.1281,149.37,Measured,18.11,Predicted
+245,Zonisamide,212.0251,213.0329,139.55,Measured,17.96,Predicted
+246,Chlortoluron,212.0711,213.0789,147.69,Measured,14.02,Predicted
+247,Harmine,212.0945,213.1023,144.50,Measured,20.23,Predicted
+248,"3,3'-Dimethylbenzidine",212.1308,213.1386,162.11,Measured,18.31,Predicted
+249,Omethoate ,213.0220,214.0298,135.80,Measured,14.18,Measured
+250,Baclofen,213.0552,214.0630,149.20,Measured,16.31,Predicted
+251,Chlorpropham ,213.0552,214.0630,145.61,Measured,14.02,Measured
+252,N-Butylbenzenesulfonamide,213.0818,214.0896,149.90,Measured,15.21,Measured
+253,Clorprenaline,213.0915,214.0993,145.80,Measured,13.41,Predicted
+254,Phenazopyridine,213.1009,214.1087,147.05,Measured,20.93,Predicted
+255,Simetryn,213.1043,214.1121,150.40,Measured,17.00,Predicted
+256,Sulfacetamide,214.0407,215.0485,144.06,Measured,19.02,Predicted
+257,Monolinuron,214.0504,215.0582,144.40,Measured,14.36,Predicted
+258,Sulfaguanidine,214.0519,215.0597,144.59,Measured,18.54,Predicted
+259,3-Phenoxybenzoic acid,214.0625,215.0703,155.84,Measured,17.14,Predicted
+260,Metribuzin,214.0883,215.0961,147.81,Measured,16.14,Measured
+261,Harmaline,214.1101,215.1179,146.20,Measured,20.02,Predicted
+262,Atrazine,215.0933,216.1011,149.69,Measured,13.92,Measured
+263,Fencamfamin,215.1669,216.1747,154.82,Measured,14.81,Measured
+264,Methoxsalen,216.0418,217.0496,139.25,Measured,18.29,Predicted
+265,Terbacil,216.0661,217.0739,146.51,Measured,14.96,Predicted
+266,"4,4'-Thiodianiline",216.0716,217.0794,161.87,Measured,18.16,Measured
+267,Benzo(c)fluorene ,216.0934,217.1012,141.98,Measured,20.15,Measured
+268,"N,N-Diethyltryptamine",216.1621,217.1699,148.60,Measured,17.19,Predicted
+269,Propanil,217.0056,218.0134,144.28,Measured,16.21,Measured
+270,Captopril,217.0768,218.0846,142.53,Measured,16.70,Predicted
+271,Pymetrozine,217.0959,218.1037,152.14,Measured,19.50,Predicted
+272,Pyracarbolid,217.1098,218.1176,150.95,Measured,17.36,Predicted
+273,Ethoxyquin,217.1462,218.1540,154.30,Measured,15.11,Predicted
+274,Prolintane,217.1825,218.1903,153.04,Measured,13.98,Measured
+275,Diphenyl sulfone,218.0397,219.0475,141.50,Measured,21.79,Measured
+276,Primidone,218.1050,219.1128,147.21,Measured,17.52,Measured
+277,Ornidazole,219.0406,220.0484,142.20,Measured,14.82,Predicted
+278,N-Phenyl-1-naphthylamine,219.1043,220.1121,147.95,Measured,16.34,Measured
+279,Dichlorvos ,219.9454,220.9532,134.71,Measured,9.48,Measured
+280,Xylazine,220.1029,221.1107,148.26,Measured,17.40,Predicted
+281,"2,5-Di-tert-butylcyclohexa-2,5-diene-1,4-dione",220.1458,221.1536,156.45,Measured,13.00,Predicted
+282,"2,6-Di-tert-butyl-p-benzoquinone",220.1458,221.1536,155.96,Measured,13.80,Measured
+283,Prilocaine,220.1571,221.1649,153.65,Measured,16.17,Measured
+284,Butylated hydroxytoluene,220.1822,221.1900,159.39,Measured,13.07,Measured
+285,4-Nonylphenol,220.1822,221.1900,159.64,Measured,17.06,Measured
+286,Chloridazon,221.0351,222.0429,141.85,Measured,21.28,Predicted
+287,Methabenzthiazuron,221.0618,222.0696,143.19,Measured,17.69,Predicted
+288,Metaxalone,221.1047,222.1125,154.00,Measured,19.09,Predicted
+289,Carbofuran,221.1047,222.1125,148.95,Measured,14.60,Measured
+290,Procarbazine,221.1523,222.1601,155.10,Measured,17.74,Predicted
+291,"5-Acetamido-1,3,4-thiadiazole-2-sulfonamide",221.9876,222.9954,139.40,Measured,18.96,Predicted
+292,Acetamiprid,222.0667,223.0745,152.21,Measured,20.93,Predicted
+293,Phenindione,222.0676,223.0754,144.85,Measured,18.55,Predicted
+294,Monobutyl phthalate,222.0887,223.0965,151.11,Measured,15.65,Predicted
+295,Apiol,222.0887,223.0965,146.10,Measured,14.56,Measured
+296,Isophorone diisocyanate,222.1363,223.1441,160.55,Measured,14.78,Predicted
+297,Mexacarbate,222.1363,223.1441,156.60,Measured,15.90,Predicted
+298,Cedrol,222.1979,223.2057,145.90,Measured,13.61,Measured
+299,Guaiol,222.1979,223.2057,146.30,Measured,13.69,Measured
+300,Monocrotophos,223.0605,224.0683,145.86,Measured,14.38,Predicted
+301,Mepanipyrim,223.1104,224.1182,153.40,Measured,18.37,Predicted
+302,Bufexamac,223.1203,224.1281,160.55,Measured,17.58,Predicted
+303,Ethamivan,223.1203,224.1281,149.37,Measured,17.28,Measured
+304,Mevinphos,224.0445,225.0523,136.80,Measured,11.28,Measured
+305,Tripropyl phosphate,224.1172,225.1250,149.05,Measured,10.82,Measured
+306,Methiocarb ,225.0818,226.0896,152.26,Measured,17.13,Measured
+307,Drometrizole,225.0897,226.0975,147.36,Measured,19.05,Measured
+308,2-Amino-5-azotoluene,225.1261,226.1339,156.22,Measured,19.74,Predicted
+309,Cyprodinil,225.1261,226.1339,153.81,Measured,20.09,Measured
+310,Terbutaline,225.1360,226.1438,155.24,Measured,18.26,Predicted
+311,Prometon,225.1585,226.1663,158.00,Measured,14.67,Predicted
+312,Terbumeton,225.1585,226.1663,156.84,Measured,14.92,Predicted
+313,Secbumeton,225.1585,226.1663,157.90,Measured,15.63,Predicted
+314,Carbidopa,226.0949,227.1027,145.55,Measured,18.96,Predicted
+315,"4,4'-Methylenebis(2-methylaniline)",226.1465,227.1543,168.98,Measured,19.86,Predicted
+316,"1,8-Diazacyclotetradecane-2,9-dione",226.1676,227.1754,152.46,Measured,25.29,Measured
+317,Ametryne,227.1200,228.1278,156.80,Measured,17.29,Predicted
+318,Tetradecanamide,227.2244,228.2322,177.85,Measured,17.47,Predicted
+319,Benzo[a]anthracene,228.0934,229.1012,144.42,Measured,21.77,Measured
+320,Triphenylene,228.0934,229.1012,144.81,Measured,15.37,Measured
+321,Tebuthiuron,228.1040,229.1118,152.05,Measured,16.20,Predicted
+322,Dimethoate ,228.9991,230.0069,140.22,Measured,14.74,Measured
+323,Clonidine,229.0169,230.0247,143.00,Measured,18.60,Measured
+324,Flonicamid,229.0458,230.0536,148.00,Measured,13.77,Predicted
+325,Sebuthylazine,229.1089,230.1167,155.40,Measured,16.47,Predicted
+326,Terbuthylazine,229.1089,230.1167,154.47,Measured,15.16,Measured
+327,Propazine,229.1089,230.1167,155.78,Measured,15.44,Measured
+328,Furfurylmethylamphetamine,229.1462,230.1540,150.02,Measured,15.65,Predicted
+329,Diazoxide,229.9912,230.9990,143.15,Measured,18.29,Predicted
+330,7H-Benz[de]anthracen-7-one,230.0727,231.0805,144.61,Measured,16.06,Measured
+331,Kavain,230.0938,231.1016,149.40,Measured,18.29,Predicted
+332,Propyphenazone,230.1414,231.1492,150.00,Measured,17.23,Measured
+333,Isocarboxazid,231.1003,232.1081,152.10,Measured,17.45,Measured
+334,Fenfluramine,231.1230,232.1308,150.37,Measured,9.57,Measured
+335,Aminopyrine,231.1367,232.1445,151.89,Measured,13.80,Measured
+336,Diuron,232.0165,233.0243,149.42,Measured,17.23,Predicted
+337,Fluometuron,232.0818,233.0896,149.75,Measured,13.20,Predicted
+338,Nalidixic acid,232.0843,233.0921,145.19,Measured,18.46,Predicted
+339,Aminoglutethimide,232.1207,233.1285,165.97,Measured,19.68,Predicted
+340,N-Phenyl-N-piperidin-4-ylpropanamide,232.1571,233.1649,156.21,Measured,17.75,Predicted
+341,Ethyl 4-phenylpiperidine-4-carboxylate,233.1411,234.1489,155.20,Measured,15.29,Measured
+342,Methylphenidate,233.1411,234.1489,153.64,Measured,15.31,Measured
+343,Chinomethionat,233.9917,234.9995,143.17,Measured,20.38,Predicted
+344,"3,5-Di-tert-Butyl-4-hydroxybenzaldehyde",234.1615,235.1693,165.04,Measured,15.21,Measured
+345,"2,6-Di-tert-butyl-4-ethylphenol",234.1979,235.2057,167.25,Measured,14.85,Predicted
+346,Carboxin,235.0662,236.0740,151.25,Measured,19.40,Predicted
+347,Amylocaine,235.1567,236.1645,157.79,Measured,13.51,Measured
+348,Procainamide,235.1680,236.1758,155.20,Measured,20.27,Predicted
+349,Methazolamide,236.0033,237.0111,144.30,Measured,19.14,Predicted
+350,Carbromal,236.0155,237.0233,139.80,Measured,15.73,Measured
+351,Procaine,236.1520,237.1598,154.10,Measured,18.11,Measured
+352,Dicrotophos,237.0761,238.0839,148.39,Measured,14.31,Predicted
+353,Ketamine,237.0915,238.0993,148.98,Measured,16.77,Predicted
+354,3-Hydroxycarbofuran,237.0996,238.1074,149.06,Measured,16.19,Predicted
+355,Proxyphylline,238.1061,239.1139,149.10,Measured,18.80,Predicted
+356,"10,11-Dihydrocarbamazepine",238.1101,239.1179,151.40,Measured,20.71,Predicted
+357,Pentaethylene glycol,238.1411,239.1489,150.30,Measured,15.92,Predicted
+358,Pirimicarb,238.1425,239.1503,155.95,Measured,15.89,Measured
+359,Muscone ,238.2292,239.2370,161.17,Measured,16.21,Measured
+360,Clomazone,239.0708,240.0786,146.72,Measured,14.90,Predicted
+361,Bupropion,239.1072,240.1150,157.43,Measured,14.70,Predicted
+362,Isoetharine,239.1516,240.1594,154.70,Measured,17.76,Predicted
+363,Albuterol,239.1516,240.1594,158.86,Measured,18.63,Predicted
+364,Benzphetamine,239.1669,240.1747,154.80,Measured,16.30,Measured
+365,Picloram,239.9255,240.9333,141.90,Measured,15.83,Predicted
+366,Tetramethylthiuram disulfide,239.9878,240.9956,148.40,Measured,13.17,Measured
+367,Danthron,240.0418,241.0496,145.60,Measured,21.13,Predicted
+368,Bentazone,240.0564,241.0642,145.63,Measured,12.93,Measured
+369,Pheniramine,240.1621,241.1699,153.80,Measured,16.04,Measured
+370,Methiocarb sulfoxide,241.0768,242.0846,156.88,Measured,16.13,Predicted
+371,Mefenamic acid,241.1098,242.1176,152.29,Measured,18.92,Predicted
+372,Prometryn,241.1356,242.1434,162.47,Measured,15.61,Measured
+373,Terbutryn,241.1356,242.1434,160.38,Measured,17.00,Measured
+374,Hexadecylamine,241.2765,242.2843,179.99,Measured,16.59,Predicted
+375,2-Ethyl-N-(2-ethylhexyl)hexan-1-amine,241.2765,242.2843,173.52,Measured,13.89,Measured
+376,Ethoprophos,242.0559,243.0637,149.27,Measured,13.83,Predicted
+377,Lumichrome,242.0799,243.0877,153.40,Measured,22.47,Predicted
+378,Thymidine,242.0898,243.0976,154.20,Measured,9.36,Measured
+379,5-Methylchrysene ,242.1091,243.1169,149.18,Measured,22.88,Measured
+380,Pentadecanoic acid,242.2241,243.2319,165.00,Measured,16.95,Measured
+381,Cyanophos,243.0114,244.0192,151.44,Measured,14.85,Measured
+382,"3,3'-Dimethoxybenzidine",244.1207,245.1285,168.33,Measured,20.92,Predicted
+383,Xylometazoline,244.1934,245.2012,168.93,Measured,19.02,Measured
+384,4-Acetamidoantipyrine,245.1159,246.1237,154.63,Measured,17.20,Measured
+385,Mepivacaine,246.1727,247.1805,157.80,Measured,18.61,Measured
+386,"1,3,5-Tri-tert-butylbenzene",246.2343,247.2421,173.59,Measured,12.70,Measured
+387,Meperidine,247.1567,248.1645,158.75,Measured,13.58,Measured
+388,Linuron,248.0114,249.0192,151.66,Measured,17.25,Measured
+389,Fludioxonil,248.0392,249.0470,147.68,Measured,19.22,Predicted
+390,Dapsone,248.0614,249.0692,152.42,Measured,23.53,Predicted
+391,Pyrimethamine,248.0824,249.0902,155.35,Measured,18.46,Predicted
+392,Pindolol,248.1520,249.1598,158.35,Measured,20.47,Measured
+393,Sulfapyridine,249.0567,250.0645,150.43,Measured,22.88,Predicted
+394,Alprenolol,249.1724,250.1802,159.05,Measured,16.36,Measured
+395,Pentachlorobenzene ,249.8486,250.8564,130.33,Measured,12.88,Measured
+396,"4,4'-Dichlorobenzophenone",249.9947,251.0025,150.42,Measured,17.45,Measured
+397,Heptenophos,250.0157,251.0235,144.04,Measured,15.46,Predicted
+398,Diflunisal,250.0437,251.0515,152.40,Measured,17.71,Predicted
+399,Sulfadiazine,250.0519,251.0597,151.09,Measured,22.57,Predicted
+400,"4,4'-Diphenylmethane diisocyanate",250.0737,251.0815,159.83,Measured,21.30,Predicted
+401,Methaqualone,250.1101,251.1179,155.25,Measured,16.14,Measured
+402,7-Aminonitrazepam,251.1054,252.1132,158.10,Measured,24.79,Predicted
+403,Prosulfocarb,251.1339,252.1417,157.71,Measured,17.07,Predicted
+404,"3,3'-Dichlorobenzidine",252.0216,253.0294,164.72,Measured,17.82,Measured
+405,Thiacloprid,252.0231,253.0309,156.97,Measured,20.71,Predicted
+406,"Carbamazepine-10,11-epoxide",252.0894,253.0972,155.59,Measured,21.69,Predicted
+407,Phenytoin,252.0894,253.0972,162.90,Measured,20.15,Measured
+408,Perylene,252.0934,253.1012,151.50,Measured,16.76,Measured
+409,Benzo[j]fluoranthene ,252.0934,253.1012,149.99,Measured,24.24,Measured
+410,Trinexapac-ethyl,252.0993,253.1071,152.92,Measured,18.18,Predicted
+411,Cimetidine,252.1152,253.1230,155.70,Measured,20.46,Predicted
+412,Hexazinone,252.1581,253.1659,161.30,Measured,17.65,Predicted
+413,Ambrettolide,252.2084,253.2162,160.94,Measured,17.26,Measured
+414,Chlorguanide,253.1089,254.1167,161.15,Measured,19.39,Predicted
+415,Nefopam,253.1462,254.1540,157.35,Measured,18.14,Measured
+416,Fenbufen,254.0938,255.1016,164.49,Measured,20.67,Predicted
+417,Dyphylline,254.1010,255.1088,152.35,Measured,20.16,Measured
+418,Sulfathiazole,255.0131,256.0209,150.08,Measured,22.65,Predicted
+419,Propyzamide,255.0213,256.0291,157.67,Measured,15.33,Measured
+420,Ketorolac,255.0890,256.0968,155.20,Measured,20.82,Predicted
+421,Dimethachlor,255.1021,256.1099,151.71,Measured,16.59,Predicted
+422,Diphenylhydramine,255.1618,256.1696,162.20,Measured,14.87,Measured
+423,Tripelennamine,255.1730,256.1808,158.50,Measured,17.72,Measured
+424,Trichlorfon,255.9221,256.9299,136.89,Measured,10.43,Predicted
+425,"2,4,4'-Trichlorobiphenyl",255.9608,256.9686,144.79,Measured,16.54,Measured
+426,n-Hexadecanoic acid,256.2397,257.2475,174.79,Measured,17.91,Measured
+427,Thiobencarb,257.0636,258.0714,156.81,Measured,17.36,Measured
+428,Meclofenoxate,257.0814,258.0892,151.50,Measured,15.83,Measured
+429,Benserazide,257.1007,258.1085,153.28,Measured,22.85,Predicted
+430,Tolmetin,257.1047,258.1125,156.70,Measured,20.39,Predicted
+431,Levorphanol,257.1775,258.1853,161.70,Measured,19.84,Measured
+432,Metobromuron,257.9999,259.0077,146.68,Measured,15.63,Predicted
+433,Thalidomide,258.0636,259.0714,148.60,Measured,23.18,Predicted
+434,Traseolide ,258.1979,259.2057,168.93,Measured,16.21,Measured
+435,Tonalide ,258.1979,259.2057,168.29,Measured,16.32,Measured
+436,"Bromo-2,5-dimethoxyphenylethylamine",259.0203,260.0281,156.60,Measured,16.45,Predicted
+437,Clobenzorex,259.1123,260.1201,156.31,Measured,17.69,Predicted
+438,Primaquine,259.1680,260.1758,160.80,Measured,20.81,Predicted
+439,Hexachlorobutadiene,259.8097,260.8175,131.11,Measured,10.52,Measured
+440,Phorate ,260.0123,261.0201,149.05,Measured,14.71,Measured
+441,Bromacil,260.0155,261.0233,143.31,Measured,15.85,Predicted
+442,Tiaprofenic acid,260.0502,261.0580,155.10,Measured,19.91,Predicted
+443,Carisoprodol,260.1731,261.1809,149.10,Measured,16.46,Measured
+444,Oxymetazoline,260.1884,261.1962,169.90,Measured,19.33,Predicted
+445,Methapyrilene,261.1295,262.1373,157.20,Measured,15.04,Measured
+446,Demeton-S-methylsulfone,262.0094,263.0172,143.27,Measured,16.46,Measured
+447,Carbadox,262.0697,263.0775,154.64,Measured,21.58,Predicted
+448,Methyl parathion,263.0012,264.0090,150.39,Measured,14.37,Measured
+449,Ticlopidine,263.0530,264.0608,154.30,Measured,18.84,Measured
+450,Nortriptyline,263.1669,264.1747,163.30,Measured,18.66,Measured
+451,Protriptyline,263.1669,264.1747,162.80,Measured,20.31,Measured
+452,Tramadol,263.1880,264.1958,160.83,Measured,17.86,Predicted
+453,Norvenlafaxine,263.1880,264.1958,165.74,Measured,18.95,Predicted
+454,Sulfamerazine,264.0676,265.0754,156.59,Measured,22.84,Predicted
+455,Mianserin,264.1621,265.1699,163.60,Measured,19.90,Measured
+456,Tetracaine,264.1833,265.1911,173.18,Measured,20.05,Measured
+457,Mirtazapine,265.1574,266.1652,159.83,Measured,20.33,Predicted
+458,Oxprenolol,265.1673,266.1751,161.61,Measured,17.25,Measured
+459,Chlorothalonil ,265.8781,266.8859,150.03,Measured,15.73,Measured
+460,"4,4'-Methylenebis(2-chloroaniline)",266.0373,267.0451,171.26,Measured,22.71,Predicted
+461,Trimetazidine,266.1625,267.1703,159.77,Measured,19.02,Predicted
+462,Cyclizine,266.1778,267.1856,165.03,Measured,16.41,Measured
+463,Desipramine,266.1778,267.1856,162.70,Measured,18.02,Measured
+464,Sulfisoxazole,267.0673,268.0751,158.77,Measured,21.36,Predicted
+465,Zidovudine,267.0963,268.1041,157.32,Measured,21.37,Predicted
+466,Azacyclonol,267.1618,268.1696,162.80,Measured,19.38,Measured
+467,Metoprolol,267.1829,268.1907,171.84,Measured,18.35,Predicted
+468,Dichlorophen,268.0053,269.0131,147.40,Measured,19.61,Predicted
+469,Moclobemide,268.0974,269.1052,161.97,Measured,19.92,Measured
+470,Diethylstilbestrol,268.1458,269.1536,175.64,Measured,21.74,Predicted
+471,Mephosfolan,269.0304,270.0382,153.24,Measured,16.00,Predicted
+472,Acetochlor,269.1178,270.1256,157.40,Measured,16.89,Predicted
+473,Alachlor,269.1178,270.1256,155.59,Measured,16.73,Measured
+474,Mepronil,269.1411,270.1489,170.40,Measured,18.05,Measured
+475,Apigenin,270.0523,271.0601,156.00,Measured,26.43,Measured
+476,Nordazepam,270.0555,271.0633,160.10,Measured,22.27,Measured
+477,Cadusafos,270.0872,271.0950,157.48,Measured,14.66,Predicted
+478,Medazepam,270.0919,271.0997,160.80,Measured,20.93,Predicted
+479,Tolbutamide,270.1033,271.1111,162.00,Measured,17.60,Predicted
+480,Chloroprocaine,270.1130,271.1208,158.90,Measured,18.96,Predicted
+481,17beta-Trenbolone,270.1615,271.1693,164.86,Measured,24.20,Predicted
+482,Doxylamine,270.1727,271.1805,161.70,Measured,17.43,Measured
+483,Acetaminosalol,271.0840,272.0918,168.20,Measured,19.53,Measured
+484,Methoprotryne,271.1462,272.1540,169.35,Measured,19.75,Predicted
+485,Dextromethorphan,271.1931,272.2009,165.27,Measured,20.10,Predicted
+486,Sotalol,272.1190,273.1268,166.48,Measured,19.75,Predicted
+487,Chlormezanone,273.0221,274.0299,158.00,Measured,19.78,Measured
+488,Fenpropidin,273.2452,274.2530,166.39,Measured,17.72,Predicted
+489,Chlorpheniramine,274.1232,275.1310,164.13,Measured,18.17,Measured
+490,Nandrolone,274.1928,275.2006,168.52,Measured,22.99,Predicted
+491,Paraoxon,275.0554,276.0632,156.76,Measured,17.28,Predicted
+492,Cyclobenzaprine,275.1669,276.1747,164.20,Measured,21.36,Predicted
+493,Chloropropamide,276.0330,277.0408,157.90,Measured,15.03,Measured
+494,Clenbuterol,276.0791,277.0869,163.73,Measured,17.82,Predicted
+495,"Indeno[1,2,3-cd]pyrene ",276.0934,277.1012,156.69,Measured,26.93,Measured
+496,Cyclandelate,276.1720,277.1798,171.50,Measured,16.93,Predicted
+497,"7,9-Di-tert-butyl-1-oxaspiro[4.5]deca-6,9-diene-2,8-dione",276.1720,277.1798,173.89,Measured,17.05,Measured
+498,Bromoxynil,276.8556,277.8634,128.69,Measured,14.31,Measured
+499,Fenitrothion,277.0169,278.0247,156.16,Measured,14.83,Measured
+500,Acecainide,277.1785,278.1863,170.50,Measured,23.09,Predicted
+501,Amitriptyline,277.1825,278.1903,166.75,Measured,17.54,Measured
+502,Maprotiline,277.1825,278.1903,163.70,Measured,20.96,Measured
+503,Fenthion,278.0195,279.0273,156.45,Measured,14.63,Measured
+504,Sulfisomidine,278.0832,279.0910,170.00,Measured,22.47,Predicted
+505,Triphenylphosphine oxide,278.0856,279.0934,162.29,Measured,18.45,Measured
+506,"Dibenzo[a,h]anthracene ",278.1091,279.1169,160.90,Measured,26.63,Measured
+507,Oxadixyl,278.1262,279.1340,164.93,Measured,19.17,Predicted
+508,Pentoxifylline,278.1374,279.1452,158.15,Measured,21.63,Predicted
+509,Diethylhexyl phthalate,278.1513,279.1591,168.91,Measured,24.66,Measured
+510,Triprolidine,278.1778,279.1856,169.00,Measured,20.27,Measured
+511,Linolenic acid,278.2241,279.2319,173.90,Measured,19.53,Measured
+512,Metalaxyl,279.1466,280.1544,160.88,Measured,17.13,Predicted
+513,Doxepin,279.1618,280.1696,163.43,Measured,20.18,Measured
+514,Sulfameter,280.0625,281.0703,159.63,Measured,23.51,Predicted
+515,Sulfamethoxypyridazine,280.0625,281.0703,158.85,Measured,24.34,Predicted
+516,Phenprocoumon,280.1094,281.1172,160.00,Measured,21.61,Predicted
+517,Imipramine,280.1934,281.2012,165.30,Measured,16.86,Measured
+518,Linoleic acid,280.2397,281.2475,179.47,Measured,19.46,Measured
+519,Nitrazepam,281.0795,282.0873,164.95,Measured,23.98,Measured
+520,Propethamphos ,281.0846,282.0924,163.12,Measured,15.71,Measured
+521,Trimetozine,281.1258,282.1336,164.50,Measured,20.15,Predicted
+522,Pendimethalin,281.1371,282.1449,159.81,Measured,16.78,Measured
+523,Diphenylpyraline,281.1775,282.1853,173.40,Measured,16.88,Measured
+524,Alverine,281.2138,282.2216,167.60,Measured,19.36,Predicted
+525,(9Z)-Octadec-9-enamide,281.2714,282.2792,190.49,Measured,21.22,Measured
+526,Oleic acid,282.2554,283.2632,180.01,Measured,19.50,Measured
+527,Procymidone,283.0162,284.0240,161.29,Measured,18.72,Measured
+528,Penconazole,283.0638,284.0716,165.40,Measured,19.07,Predicted
+529,Metolachlor,283.1334,284.1412,159.60,Measured,17.37,Measured
+530,Octadecanamide,283.2870,284.2948,192.78,Measured,21.39,Measured
+531,Hexachlorobenzene ,283.8097,284.8175,134.68,Measured,14.60,Measured
+532,Diazepam,284.0711,285.0789,164.55,Measured,16.51,Measured
+533,Psilocybine,284.0921,285.0999,157.30,Measured,21.99,Predicted
+534,Articaine,284.1190,285.1268,164.00,Measured,18.80,Predicted
+535,Promazine,284.1342,285.1420,161.45,Measured,16.85,Measured
+536,Promethazine,284.1342,285.1420,162.67,Measured,20.32,Measured
+537,Tropicamide,284.1520,285.1598,169.05,Measured,21.40,Predicted
+538,Stearine acid,284.2710,285.2788,183.84,Measured,19.71,Measured
+539,Vinclozolin ,284.9954,286.0032,162.10,Measured,16.55,Measured
+540,Cladribine,285.0624,286.0702,154.20,Measured,22.09,Predicted
+541,Probenecid,285.1030,286.1108,160.50,Measured,20.17,Predicted
+542,Norcodeine,285.1360,286.1438,167.50,Measured,21.61,Predicted
+543,Hydromorphone,285.1360,286.1438,164.16,Measured,21.62,Predicted
+544,Piperine,285.1360,286.1438,173.45,Measured,24.35,Predicted
+545,Morphine,285.1360,286.1438,164.25,Measured,21.83,Measured
+546,Pyrilamine,285.1836,286.1914,168.45,Measured,20.06,Measured
+547,Pentazocine,285.2088,286.2166,174.04,Measured,20.53,Measured
+548,N-Desmethylclobazam,286.0504,287.0582,161.70,Measured,22.99,Predicted
+549,Oxazepam,286.0504,287.0582,162.30,Measured,21.12,Measured
+550,Ethofumesate,286.0870,287.0948,164.65,Measured,17.08,Measured
+551,Thonzylamine,286.1789,287.1867,167.30,Measured,16.15,Measured
+552,"4-Androstene-3,17-dione",286.1928,287.2006,172.55,Measured,22.36,Measured
+553,Vamidothion,287.0410,288.0488,158.80,Measured,19.28,Predicted
+554,Dihydromorphine,287.1516,288.1594,163.60,Measured,21.76,Predicted
+555,Ritodrine,287.1516,288.1594,166.44,Measured,24.32,Predicted
+556,Cyproheptadine,287.1669,288.1747,171.61,Measured,21.17,Measured
+557,Procyclidine,287.2244,288.2322,171.63,Measured,19.48,Measured
+558,Myclobutanil,288.1137,289.1215,174.56,Measured,21.07,Measured
+559,Bupivacaine,288.2197,289.2275,171.97,Measured,20.31,Predicted
+560,Benzoylecgonine,289.1309,290.1387,167.79,Measured,22.95,Measured
+561,Chloropyramine,289.1341,290.1419,167.90,Measured,19.76,Predicted
+562,Dyclonine,289.2037,290.2115,179.30,Measured,20.71,Predicted
+563,Chloroxuron,290.0817,291.0895,174.39,Measured,21.27,Predicted
+564,Carbinoxamine,290.1181,291.1259,167.00,Measured,19.01,Measured
+565,Benomyl,290.1374,291.1452,146.68,Measured,22.76,Predicted
+566,Azatadine,290.1778,291.1856,171.00,Measured,21.32,Measured
+567,Octinoxate,290.1877,291.1955,183.43,Measured,20.83,Measured
+568,5a-Dihydrotestosterone,290.2241,291.2319,177.26,Measured,22.60,Measured
+569,Thiamethoxam,291.0188,292.0266,158.16,Measured,20.55,Predicted
+570,Parathion,291.0325,292.0403,159.25,Measured,17.54,Measured
+571,Cyproconazole (I),291.1133,292.1211,168.89,Measured,20.38,Predicted
+572,Cyclopentolate,291.1829,292.1907,169.00,Measured,18.11,Measured
+573,"3,4,4',5-Tetrachlorobiphenyl",291.9190,292.9268,152.65,Measured,19.67,Measured
+574,"2,2',5,5'-Tetrachlorobiphenyl",291.9190,292.9268,151.98,Measured,17.62,Measured
+575,"3,3',4,4'-Tetrachlorobiphenyl",291.9190,292.9268,152.09,Measured,20.16,Measured
+576,Climbazole,292.0974,293.1052,171.10,Measured,19.15,Predicted
+577,Triadimefon,293.0926,294.1004,172.95,Measured,17.64,Measured
+578,Paclobutrazol,293.1290,294.1368,170.39,Measured,19.19,Predicted
+579,Pramocaine,293.1986,294.2064,178.30,Measured,16.91,Measured
+580,Chlorbromuron,293.9587,294.9665,152.25,Measured,18.08,Predicted
+581,Pyrifenox (I),294.0322,295.0400,164.53,Measured,18.97,Predicted
+582,Estazolam,294.0667,295.0745,168.10,Measured,25.22,Measured
+583,Aspartame,294.1211,295.1289,167.40,Measured,21.78,Predicted
+584,Musk ketone ,294.1211,295.1289,170.47,Measured,17.41,Measured
+585,Cinchonidine,294.1727,295.1805,168.90,Measured,23.09,Measured
+586,Proxymetacaine,294.1938,295.2016,176.40,Measured,20.70,Predicted
+587,Trimipramine,294.2091,295.2169,170.25,Measured,20.06,Measured
+588,Methyl linoleate,294.2554,295.2632,186.00,Measured,18.51,Measured
+589,Quintozene ,294.8337,295.8415,146.24,Measured,15.10,Measured
+590,Chlorothiazide,294.9483,295.9561,161.04,Measured,21.36,Predicted
+591,Mebendazole,295.0952,296.1030,172.20,Measured,25.54,Predicted
+592,Nimetazepam,295.0952,296.1030,169.70,Measured,23.55,Measured
+593,Triadimenol,295.1083,296.1161,172.08,Measured,18.46,Measured
+594,Pizotyline,295.1390,296.1468,174.80,Measured,21.26,Measured
+595,Imazalil,296.0478,297.0556,166.23,Measured,19.28,Measured
+596,Disulfiram,296.0504,297.0582,165.50,Measured,19.25,Measured
+597,Musk xylene ,297.0956,298.1034,168.06,Measured,16.39,Measured
+598,Spiroxamine (I),297.2663,298.2741,183.52,Measured,17.24,Predicted
+599,Quinalphos,298.0536,299.0614,163.57,Measured,18.75,Predicted
+600,Mefenacet,298.0771,299.0849,169.10,Measured,22.92,Predicted
+601,Nialamide,298.1425,299.1503,173.70,Measured,23.53,Measured
+602,Trimeprazine,298.1499,299.1577,166.80,Measured,21.06,Measured
+603,Norethynodrel,298.1928,299.2006,174.60,Measured,23.72,Predicted
+604,Norethindrone,298.1928,299.2006,174.97,Measured,24.11,Predicted
+605,Azaconazole,299.0223,300.0301,161.91,Measured,20.21,Predicted
+606,Phosphamidon isomer 2,299.0684,300.0762,156.92,Measured,16.20,Measured
+607,Norflunitrazepam,299.0701,300.0779,165.20,Measured,24.08,Measured
+608,Fenbendazole,299.0723,300.0801,172.65,Measured,24.08,Predicted
+609,Metoclopramide,299.1396,300.1474,172.24,Measured,23.46,Measured
+610,Codeine,299.1516,300.1594,168.72,Measured,21.34,Measured
+611,Hydrocodone,299.1516,300.1594,167.95,Measured,21.61,Measured
+612,Nylidrin,299.1880,300.1958,168.00,Measured,21.12,Measured
+613,Tolclofos-methyl,299.9539,300.9617,150.34,Measured,13.71,Measured
+614,Clobazam,300.0661,301.0739,165.70,Measured,22.95,Measured
+615,Temazepam,300.0661,301.0739,166.10,Measured,23.00,Measured
+616,Desmedipham,300.1105,301.1183,182.00,Measured,21.89,Predicted
+617,Chlorcyclizine,300.1388,301.1466,173.40,Measured,20.12,Measured
+618,Apazone,300.1581,301.1659,169.50,Measured,19.94,Predicted
+619,Retinoic acid,300.2084,301.2162,175.40,Measured,22.91,Predicted
+620,Methandrostenolone,300.2084,301.2162,175.90,Measured,24.13,Predicted
+621,Fenhexamid,301.0631,302.0709,165.93,Measured,22.07,Predicted
+622,Flutriafol,301.1022,302.1100,165.75,Measured,19.49,Predicted
+623,Furalaxyl,301.1309,302.1387,165.48,Measured,18.63,Predicted
+624,Fenoxycarb,301.1309,302.1387,179.81,Measured,21.66,Predicted
+625,"7,8-Dihydro-14-hydroxymorphinone",301.1309,302.1387,165.11,Measured,22.71,Measured
+626,Dobutamine,301.1673,302.1751,168.10,Measured,25.71,Predicted
+627,Isoxsuprine,301.1673,302.1751,172.52,Measured,20.82,Measured
+628,Dihydrocodeine Bitartrate,301.1673,302.1751,168.75,Measured,21.33,Measured
+629,Chlorfenson ,301.9566,302.9644,161.35,Measured,19.32,Measured
+630,Methidathion ,301.9614,302.9692,151.99,Measured,18.42,Measured
+631,"Dibenzo[a,l]pyrene ",302.1091,303.1169,163.27,Measured,29.17,Measured
+632,"Dibenzo[a,e]pyrene ",302.1091,303.1169,160.98,Measured,29.88,Measured
+633,"Dibenzo[a,i]pyrene ",302.1091,303.1169,161.12,Measured,30.05,Measured
+634,"3,4:8,9-Dibenzopyrene",302.1091,303.1169,163.25,Measured,30.14,Measured
+635,Broxyquinoline,302.8713,303.8791,137.05,Measured,17.79,Predicted
+636,Chlorambucil,303.0788,304.0866,168.00,Measured,21.64,Predicted
+637,Fenamiphos,303.1053,304.1131,170.80,Measured,19.25,Predicted
+638,Phenoxybenzamine,303.1385,304.1463,177.09,Measured,20.55,Predicted
+639,Pseudococaine,303.1466,304.1544,169.74,Measured,20.06,Predicted
+640,Fenpropimorph,303.2557,304.2635,175.90,Measured,18.40,Predicted
+641,Melphalan,304.0740,305.0818,172.65,Measured,22.65,Predicted
+642,Clioquinol,304.9099,305.9177,137.50,Measured,18.80,Predicted
+643,Methylpirimiphos,305.0958,306.1036,166.87,Measured,17.09,Measured
+644,Buprofezin ,305.1557,306.1635,174.19,Measured,19.72,Measured
+645,Fenazaquin,306.1727,307.1805,175.85,Measured,22.87,Predicted
+646,Butacaine,306.2302,307.2380,179.00,Measured,21.89,Measured
+647,Quinoxyfen,306.9962,308.0040,164.10,Measured,20.70,Predicted
+648,Tolnaftate,307.1026,308.1104,173.35,Measured,23.74,Predicted
+649,Tebuconazole (I),307.1446,308.1524,167.51,Measured,21.44,Predicted
+650,Betaxolol,307.2142,308.2220,185.30,Measured,21.36,Predicted
+651,Chloralose,307.9616,308.9694,163.20,Measured,18.54,Predicted
+652,Nimesulide,308.0462,309.0540,168.60,Measured,22.87,Predicted
+653,Alprazolam,308.0824,309.0902,171.95,Measured,25.53,Measured
+654,Warfarin,308.1044,309.1122,166.35,Measured,22.95,Predicted
+655,Phenylbutazone,308.1520,309.1598,172.67,Measured,21.56,Measured
+656,Benoxinate,308.2095,309.2173,182.30,Measured,21.47,Measured
+657,Sulfisoxazole acetyl,309.0778,310.0856,161.20,Measured,22.04,Predicted
+658,Ketotifen,309.1182,310.1260,176.90,Measured,23.09,Measured
+659,Benzydamine,309.1836,310.1914,170.50,Measured,21.45,Measured
+660,Nadolol,309.1935,310.2013,172.24,Measured,23.33,Measured
+661,Diphenidol,309.2088,310.2166,175.00,Measured,21.44,Predicted
+662,Methadone,309.2088,310.2166,176.85,Measured,19.29,Measured
+663,Dicyclomine,309.2663,310.2741,178.80,Measured,18.98,Measured
+664,Edifenphos,310.0246,311.0324,166.23,Measured,18.94,Measured
+665,Sulfadimethoxine,310.0731,311.0809,167.98,Measured,24.02,Predicted
+666,Cannabinol,310.1928,311.2006,182.20,Measured,21.93,Predicted
+667,Mestranol,310.1928,311.2006,175.40,Measured,23.32,Predicted
+668,Fenamidone,311.1087,312.1165,172.29,Measured,22.65,Predicted
+669,Tolazamide,311.1299,312.1377,173.30,Measured,21.86,Predicted
+670,Thebaine,311.1516,312.1594,172.20,Measured,22.77,Measured
+671,Pretilachlor,311.1647,312.1725,158.60,Measured,19.39,Predicted
+672,Adiphenine,311.1880,312.1958,176.25,Measured,19.92,Measured
+673,Biperiden,311.2244,312.2322,176.70,Measured,20.56,Measured
+674,Aflatoxin B1,312.0629,313.0707,163.57,Measured,24.10,Predicted
+675,Desmethylclozapine,312.1137,313.1215,173.80,Measured,24.93,Predicted
+676,Ethopropazine,312.1655,313.1733,168.50,Measured,21.35,Measured
+677,Norgestrel,312.2084,313.2162,178.65,Measured,24.01,Predicted
+678,Ethisterone,312.2084,313.2162,179.50,Measured,24.59,Predicted
+679,Hexaconazole (I),313.0744,314.0822,172.59,Measured,19.84,Predicted
+680,Flunitrazepam,313.0858,314.0936,168.60,Measured,23.09,Measured
+681,Amoxapine,313.0977,314.1055,170.53,Measured,23.43,Measured
+682,Ethylmorphine,313.1673,314.1751,175.20,Measured,21.57,Measured
+683,Dichlofenthion,313.9695,314.9773,158.11,Measured,16.48,Measured
+684,Malaoxon,314.0584,315.0662,163.14,Measured,16.62,Predicted
+685,Nuarimol,314.0617,315.0695,170.50,Measured,20.97,Predicted
+686,Aflatoxin B2,314.0785,315.0863,165.30,Measured,24.27,Predicted
+687,Sulfaphenazole,314.0832,315.0910,169.65,Measured,26.17,Predicted
+688,Clomipramine,314.1545,315.1623,173.68,Measured,21.96,Measured
+689,Dronabinol,314.2241,315.2319,184.00,Measured,22.78,Predicted
+690,Progesterone,314.2241,315.2319,179.29,Measured,24.69,Predicted
+691,Bromazepam,315.0002,316.0080,159.80,Measured,23.28,Measured
+692,Clonazepam,315.0406,316.0484,169.60,Measured,24.79,Measured
+693,Flusilazol,315.0998,316.1076,174.95,Measured,18.21,Predicted
+694,Bumetrizole,315.1133,316.1211,177.76,Measured,17.20,Measured
+695,Oxycodone,315.1466,316.1544,170.01,Measured,22.43,Predicted
+696,Bupirimate,316.1564,317.1642,177.70,Measured,20.00,Predicted
+697,Timolol,316.1564,317.1642,174.45,Measured,20.61,Measured
+698,Phosmet,316.9940,318.0018,158.94,Measured,21.32,Measured
+699,Tetrabenazine,317.1986,318.2064,181.85,Measured,22.37,Predicted
+700,Dichlorodiphenyldichloroethylene,317.9346,318.9424,161.83,Measured,19.66,Measured
+701,Brompheniramine,318.0727,319.0805,165.30,Measured,19.01,Measured
+702,Phenolphthalein,318.0887,319.0965,172.10,Measured,26.56,Predicted
+703,Chlorpromazine,318.0952,319.1030,170.00,Measured,17.48,Measured
+704,Metconazole (I),319.1446,320.1524,169.02,Measured,21.63,Predicted
+705,Chloroquine,319.1810,320.1888,176.80,Measured,23.31,Measured
+706,"o,p'-DDD",319.9503,320.9581,147.84,Measured,19.35,Predicted
+707,Lorazepam,320.0114,321.0192,165.96,Measured,21.71,Measured
+708,Terbufos sulfone,320.0335,321.0413,172.88,Measured,18.06,Predicted
+709,Iprovalicarb ,320.2095,321.2173,186.10,Measured,19.60,Measured
+710,Pyriproxyfen,321.1360,322.1438,184.44,Measured,22.20,Predicted
+711,Chloramphenicol,322.0118,323.0196,166.04,Measured,20.56,Predicted
+712,Sulprofos,322.0280,323.0358,171.60,Measured,20.74,Predicted
+713,Methyl chlorpyrifos,322.8916,323.8994,153.97,Measured,16.24,Measured
+714,O-Ethyl O-(4-nitrophenyl) phenylphosphonothioate,323.0376,324.0454,168.79,Measured,22.01,Measured
+715,Flutolanil,323.1128,324.1206,174.72,Measured,16.78,Measured
+716,Piperidolate,323.1880,324.1958,177.38,Measured,21.06,Measured
+717,Octrizole,323.1993,324.2071,187.23,Measured,23.36,Predicted
+718,Lysergsaure diethylamid,323.1993,324.2071,179.50,Measured,27.17,Predicted
+719,Azamethiphos,323.9732,324.9810,160.00,Measured,21.03,Predicted
+720,Prazepam,324.1024,325.1102,174.00,Measured,23.47,Measured
+721,Acetohexamide,324.1139,325.1217,178.20,Measured,22.99,Measured
+722,Oxyphenbutazone,324.1469,325.1547,178.21,Measured,22.02,Predicted
+723,Quinidine,324.1833,325.1911,175.25,Measured,24.59,Measured
+724,Quinine,324.1833,325.1911,176.40,Measured,24.66,Measured
+725,Famphur ,325.0203,326.0281,169.47,Measured,20.66,Measured
+726,Diniconazole,325.0744,326.0822,175.90,Measured,20.98,Predicted
+727,Midazolam,325.0777,326.0855,172.80,Measured,22.93,Measured
+728,Clemizole,325.1341,326.1419,179.80,Measured,19.16,Measured
+729,Monocrotaline,325.1520,326.1598,172.90,Measured,20.55,Predicted
+730,Benalaxyl,325.1673,326.1751,174.35,Measured,20.91,Predicted
+731,"2,2',4,5,5'-Pentachlorobiphenyl",325.8800,326.8878,157.62,Measured,18.98,Measured
+732,"2,3,3',4,4'-Pentachlorbiphenyl",325.8800,326.8878,157.88,Measured,20.06,Measured
+733,"2,3',4,4',5-Pentachlorobiphenyl ",325.8800,326.8878,158.16,Measured,20.12,Measured
+734,"2,3,4,4',5-Pentachlorobiphenyl",325.8800,326.8878,156.35,Measured,20.29,Measured
+735,"2,3',4,4',5'-Pentachlorobiphenyl",325.8800,326.8878,156.79,Measured,20.56,Measured
+736,"3,3',4,4',5-Pentachlorbiphenyl",325.8800,326.8878,158.96,Measured,21.17,Measured
+737,Gliotoxin,326.0390,327.0468,161.10,Measured,25.22,Predicted
+738,Clozapine,326.1293,327.1371,177.93,Measured,24.98,Measured
+739,Acepromazine,326.1448,327.1526,171.11,Measured,19.61,Measured
+740,Dimoxystrobin,326.1625,327.1703,174.15,Measured,22.12,Predicted
+741,Octabenzone,326.1877,327.1955,193.69,Measured,21.75,Measured
+742,Hydroquinine,326.1989,327.2067,178.70,Measured,24.61,Predicted
+743,Hydroquinidine,326.1989,327.2067,176.45,Measured,24.74,Measured
+744,Methyl arachidate,326.3180,327.3258,202.97,Measured,20.49,Measured
+745,Etaconazole (I),327.0536,328.0614,173.10,Measured,21.03,Predicted
+746,Fluazifop,327.0713,328.0791,173.47,Measured,19.31,Predicted
+747,Loxapine,327.1133,328.1211,175.40,Measured,23.10,Predicted
+748,Naloxone,327.1466,328.1544,171.84,Measured,23.68,Predicted
+749,Boldine,327.1466,328.1544,179.20,Measured,26.16,Predicted
+750,6-Acetylmorphine,327.1466,328.1544,175.11,Measured,22.27,Measured
+751,Benactyzine,327.1829,328.1907,176.60,Measured,20.60,Predicted
+752,Aflatoxin G1,328.0578,329.0656,165.80,Measured,24.57,Predicted
+753,Pencycuron,328.1337,329.1415,181.54,Measured,20.71,Predicted
+754,Methotrimeprazine,328.1604,329.1682,176.80,Measured,22.53,Predicted
+755,Labetalol,328.1782,329.1860,177.61,Measured,26.53,Predicted
+756,Docosahexaenoic acid,328.2397,329.2475,183.50,Measured,22.50,Measured
+757,Stanozolol,328.2510,329.2588,188.99,Measured,26.22,Measured
+758,Iprodione,329.0329,330.0407,179.48,Measured,20.51,Measured
+759,Epoxiconazole ,329.0726,330.0804,171.31,Measured,21.37,Measured
+760,Trilostane,329.1986,330.2064,184.00,Measured,24.69,Predicted
+761,Fenarimol,330.0322,331.0400,174.60,Measured,22.89,Measured
+762,Malathion,330.0356,331.0434,165.83,Measured,17.29,Measured
+763,Aflatoxin G2,330.0735,331.0813,168.10,Measured,24.73,Predicted
+764,Piroxicam,331.0622,332.0700,170.75,Measured,24.69,Predicted
+765,Isoxaben,332.1731,333.1809,185.93,Measured,22.54,Predicted
+766,Ethalfluralin ,333.0931,334.1009,165.31,Measured,14.27,Measured
+767,Tebufenpyrad,333.1603,334.1681,193.32,Measured,22.08,Predicted
+768,Ipconazole (I),333.1603,334.1681,173.60,Measured,22.48,Predicted
+769,Carbetapentane,333.2299,334.2377,175.50,Measured,20.75,Predicted
+770,Lormetazepam,334.0271,335.0349,169.50,Measured,23.64,Measured
+771,Strychnine,334.1676,335.1754,172.87,Measured,26.89,Measured
+772,Zoxamide,335.0242,336.0320,177.40,Measured,21.89,Predicted
+773,Fenamiphos sulfone,335.0951,336.1029,179.48,Measured,20.38,Predicted
+774,Trifluralin ,335.1088,336.1166,168.43,Measured,14.56,Measured
+775,Hydroxychloroquine,335.1759,336.1837,180.20,Measured,25.21,Predicted
+776,Oxeladin,335.2455,336.2533,177.65,Measured,19.60,Predicted
+777,Dicumarol,336.0629,337.0707,175.35,Measured,23.23,Measured
+778,Fenbuconazole,336.1137,337.1215,183.75,Measured,23.92,Predicted
+779,Fluoxymesterone,336.2096,337.2174,178.09,Measured,25.32,Predicted
+780,Fentanyl,336.2197,337.2275,182.56,Measured,24.01,Measured
+781,Lobeline,337.2037,338.2115,186.00,Measured,24.94,Predicted
+782,Danazol,337.2037,338.2115,186.70,Measured,26.00,Predicted
+783,(Z)-13-Docosenamide,337.3340,338.3418,207.73,Measured,24.14,Predicted
+784,Resmethrin ,338.1877,339.1955,184.54,Measured,21.61,Measured
+785,Papaverine,339.1466,340.1544,185.87,Measured,17.20,Measured
+786,Propoxyphene,339.2193,340.2271,179.90,Measured,19.66,Measured
+787,Disopyramide,339.2306,340.2384,179.50,Measured,22.09,Predicted
+788,Hexetidine,339.3608,340.3686,194.00,Measured,19.04,Predicted
+789,Pyridafenthion,340.0642,341.0720,175.12,Measured,21.67,Measured
+790,Norethindrone acetate,340.2033,341.2111,187.39,Measured,24.43,Predicted
+791,"2,2'-Methylenebis(4-methyl-6-tert-butylphenol)",340.2397,341.2475,200.03,Measured,20.47,Measured
+792,Propiconazole,341.0693,342.0771,177.97,Measured,20.92,Measured
+793,Thebacon,341.1622,342.1700,178.20,Measured,22.67,Predicted
+794,Naltrexone,341.1622,342.1700,176.35,Measured,25.11,Predicted
+795,Fenethylline,341.1847,342.1925,177.88,Measured,24.19,Predicted
+796,Propafenone,341.1986,342.2064,177.60,Measured,24.29,Predicted
+797,Endosulfan ether ,341.8516,342.8594,152.53,Measured,16.30,Measured
+798,Carbophenothion ,341.9734,342.9812,169.85,Measured,20.50,Measured
+799,Boscalid,342.0322,343.0400,174.89,Measured,24.51,Predicted
+800,Triazolam,342.0434,343.0512,173.10,Measured,26.17,Measured
+801,Methylthiofanate,342.0451,343.0529,174.81,Measured,24.25,Predicted
+802,Clemastine,343.1698,344.1776,181.70,Measured,21.69,Measured
+803,Dibucaine,343.2255,344.2333,195.57,Measured,21.29,Measured
+804,Oxadiazon,344.0689,345.0767,182.17,Measured,19.50,Predicted
+805,Ethyl azinphos,345.0366,346.0444,174.71,Measured,22.67,Measured
+806,Tolyfluanid ,345.9775,346.9853,159.89,Measured,18.13,Measured
+807,Nifedipine,346.1160,347.1238,172.60,Measured,22.61,Measured
+808,Corticosterone,346.2139,347.2217,184.28,Measured,27.90,Predicted
+809,Captafol ,348.9074,349.9152,158.09,Measured,21.33,Measured
+810,Clodinafop-propargyl,349.0512,350.0590,180.11,Measured,21.10,Predicted
+811,Phenothrin (I),350.1877,351.1955,189.10,Measured,21.56,Predicted
+812,Pirenzepine,351.1690,352.1768,180.95,Measured,27.53,Predicted
+813,Halazepam,352.0585,353.0663,170.90,Measured,20.63,Measured
+814,Griseofulvin,352.0709,353.0787,178.30,Measured,23.53,Predicted
+815,Hexythiazox,352.1007,353.1085,184.74,Measured,23.59,Predicted
+816,Triflupromazine,352.1216,353.1294,175.60,Measured,16.27,Measured
+817,Protopine,353.1258,354.1336,178.30,Measured,24.05,Measured
+818,Proadifen,353.2350,354.2428,187.25,Measured,20.92,Measured
+819,Yohimbine,354.1938,355.2016,186.43,Measured,27.07,Measured
+820,Methyl behenate,354.3493,355.3571,155.60,Measured,22.11,Measured
+821,Succinylsulfathiazole,355.0292,356.0370,182.60,Measured,26.69,Predicted
+822,Amodiaquine,355.1446,356.1524,192.20,Measured,25.47,Predicted
+823,Tetradifon ,355.8809,356.8887,165.97,Measured,22.02,Measured
+824,Sulindac,356.0877,357.0955,192.17,Measured,25.72,Predicted
+825,Conessine,356.3186,357.3264,195.40,Measured,24.35,Predicted
+826,Oxybutynin,357.2299,358.2377,185.70,Measured,22.78,Predicted
+827,Chlorfenvinphos,357.9690,358.9768,167.12,Measured,18.20,Measured
+828,Prednisone,358.1775,359.1853,182.24,Measured,26.47,Predicted
+829,Methyclothiazide,358.9563,359.9641,173.30,Measured,23.42,Predicted
+830,Clethodim,359.1317,360.1395,191.25,Measured,21.89,Predicted
+831,Etoxazole,359.1692,360.1770,188.05,Measured,21.81,Predicted
+832,Isopyrazam,359.1804,360.1882,181.90,Measured,23.36,Predicted
+833,"2,2',4,4',5,5'-Hexachlorobiphenyl ",359.8410,360.8488,163.51,Measured,20.52,Measured
+834,"2,2',3,4,4',5'-Hexachlorobiphenyl",359.8410,360.8488,162.22,Measured,20.98,Measured
+835,"2,3,3',4,4',5-Hexachlorobiphenyl",359.8410,360.8488,164.54,Measured,21.51,Measured
+836,"2,3,3',4,4',5'-Hexachlorobiphenyl",359.8410,360.8488,163.07,Measured,21.89,Measured
+837,"2,3',4,4',5,5'-Hexachlorobiphenyl ",359.8410,360.8488,162.83,Measured,21.97,Measured
+838,"3,3',4,4',5,5'-Hexachlorobiphenyl",359.8410,360.8488,165.60,Measured,22.56,Measured
+839,Nitrendipine,360.1316,361.1394,182.17,Measured,23.53,Measured
+840,Cortisone,360.1932,361.2010,185.20,Measured,25.89,Predicted
+841,Prednisolone,360.1932,361.2010,183.65,Measured,27.84,Predicted
+842,Oxyfluorfen ,361.0324,362.0402,175.37,Measured,19.80,Measured
+843,Bisacodyl,361.1309,362.1387,193.53,Measured,24.10,Predicted
+844,Octocrylene ,361.2037,362.2115,193.53,Measured,23.26,Measured
+845,Coumaphos,362.0140,363.0218,180.06,Measured,22.83,Predicted
+846,Phthalylsulfacetamide,362.0568,363.0646,186.40,Measured,27.28,Predicted
+847,2-Ethylhexyl diphenyl phosphate,362.1642,363.1720,189.58,Measured,21.61,Measured
+848,Hydrocortisone,362.2088,363.2166,186.60,Measured,27.23,Predicted
+849,Flufenacet,363.0660,364.0738,178.20,Measured,17.11,Predicted
+850,Isodrin ,363.8723,364.8801,153.87,Measured,17.71,Measured
+851,Aldrin,363.8723,364.8801,161.65,Measured,17.51,Measured
+852,Bumetanide,364.1088,365.1166,185.08,Measured,26.85,Predicted
+853,Pyridaben,364.1371,365.1449,197.85,Measured,23.09,Predicted
+854,Metolazone,365.0596,366.0674,181.35,Measured,26.35,Predicted
+855,Indapamide,365.0596,366.0674,185.30,Measured,26.61,Predicted
+856,Periciazine,365.1557,366.1635,186.50,Measured,23.27,Measured
+857,Bromophos,365.8463,366.8541,157.19,Measured,17.80,Measured
+858,Picoxystrobin,367.1026,368.1104,186.00,Measured,19.43,Predicted
+859,Tri-o-cresyl phosphate,368.1172,369.1250,181.49,Measured,22.89,Predicted
+860,Tri-p-tolylphosphine,368.1172,369.1250,188.78,Measured,23.89,Measured
+861,Isopropylphenyl diphenyl phosphate,368.1172,369.1250,182.90,Measured,26.30,Measured
+862,Cinnarizine,368.2247,369.2325,205.45,Measured,26.36,Measured
+863,Diacetylmorphine,369.1571,370.1649,185.82,Measured,23.14,Measured
+864,Thioridazine,370.1532,371.1610,184.97,Measured,26.71,Measured
+865,Spiromesifen ,370.2139,371.2217,196.08,Measured,21.63,Measured
+866,Octaethylene glycol,370.2198,371.2276,179.65,Measured,23.56,Predicted
+867,Bis(2-ethylhexyl) adipate,370.3078,371.3156,209.38,Measured,21.39,Measured
+868,Ioxynil,370.8299,371.8377,133.06,Measured,17.25,Measured
+869,Tetraconazole,371.0210,372.0288,175.20,Measured,17.78,Predicted
+870,Isradipine,371.1476,372.1554,182.40,Measured,22.93,Measured
+871,Trazodone,371.1508,372.1586,189.85,Measured,28.20,Measured
+872,Tamoxifen,371.2244,372.2322,197.37,Measured,23.70,Predicted
+873,Heptachlor ,371.8177,372.8255,155.14,Measured,16.87,Measured
+874,Proquinazid,372.0330,373.0408,169.35,Measured,21.73,Predicted
+875,Quizalofop-ethyl,372.0872,373.0950,193.28,Measured,24.44,Predicted
+876,Desoxycorticosterone acetate,372.2296,373.2374,194.10,Measured,27.32,Predicted
+877,Prochlorperazine,373.1374,374.1452,183.65,Measured,20.56,Measured
+878,Profenofos,373.9324,374.9402,166.63,Measured,19.30,Predicted
+879,Hydroxyzine,374.1756,375.1834,196.35,Measured,25.10,Measured
+880,Methylprednisolone,374.2088,375.2166,187.93,Measured,27.34,Predicted
+881,Fluquinconazole (I),375.0085,376.0163,179.70,Measured,24.24,Predicted
+882,Prochloraz,375.0303,376.0381,175.82,Measured,23.82,Predicted
+883,Haloxyfop-p-methyl,375.0480,376.0558,185.18,Measured,19.18,Predicted
+884,Haloperidol,375.1396,376.1474,193.35,Measured,25.17,Measured
+885,Pipamperone,375.2317,376.2395,193.35,Measured,26.63,Measured
+886,Bromhexine,375.9968,377.0046,168.39,Measured,21.28,Measured
+887,Riboflavine,376.1378,377.1456,184.90,Measured,27.80,Predicted
+888,Etofenprox ,376.2033,377.2111,189.39,Measured,24.74,Measured
+889,17-Desoxymethasone,376.2045,377.2123,186.40,Measured,25.47,Predicted
+890,Bromuconazole (I),376.9512,377.9590,167.91,Measured,22.27,Predicted
+891,Famprofazone,377.2462,378.2540,191.66,Measured,24.84,Predicted
+892,Pyridate,378.1164,379.1242,199.90,Measured,25.29,Predicted
+893,Doxapram,378.2302,379.2380,183.67,Measured,24.99,Measured
+894,Cyclopenthiazide,379.0422,380.0500,188.23,Measured,24.51,Predicted
+895,Droperidol,379.1691,380.1769,195.83,Measured,29.00,Measured
+896,Dieldrin ,379.8672,380.8750,157.92,Measured,19.18,Measured
+897,Endrin ,379.8672,380.8750,163.84,Measured,19.45,Measured
+898,Chlorotrianisene,380.1174,381.1252,191.50,Measured,26.53,Predicted
+899,Carbosulfan ,380.2129,381.2207,190.66,Measured,21.58,Measured
+900,Loratadine,382.1443,383.1521,186.53,Measured,25.89,Predicted
+901,Furathiocarb,382.1557,383.1635,193.01,Measured,21.55,Predicted
+902,Felodipine,383.0686,384.0764,181.46,Measured,22.91,Predicted
+903,Fluazifop-p-butyl,383.1339,384.1417,195.84,Measured,20.06,Predicted
+904,Hydrastine,383.1364,384.1442,186.30,Measured,25.64,Predicted
+905,Prazosin,383.1589,384.1667,193.10,Measured,28.08,Predicted
+906,Ethion,383.9871,384.9949,176.59,Measured,20.40,Measured
+907,Diafenthiuron,384.2230,385.2308,199.75,Measured,22.41,Predicted
+908,Acequinocyl,384.2296,385.2374,208.51,Measured,25.39,Predicted
+909,Buspirone,385.2473,386.2551,198.03,Measured,28.03,Predicted
+910,Sulfentrazone,385.9814,386.9892,177.61,Measured,22.21,Predicted
+911,Mesoridazine,386.1482,387.1560,188.10,Measured,28.56,Predicted
+912,Sufentanil,386.2023,387.2101,191.45,Measured,24.66,Predicted
+913,Medroxyprogesterone acetate,386.2452,387.2530,198.53,Measured,25.65,Predicted
+914,Cholesterol,386.3544,387.3622,204.60,Measured,26.90,Measured
+915,Pyraclostrobin,387.0981,388.1059,184.80,Measured,25.39,Predicted
+916,Flurazepam,387.1509,388.1587,185.30,Measured,24.35,Measured
+917,Terazosin,387.1902,388.1980,195.45,Measured,28.27,Predicted
+918,Trimebutine,387.2041,388.2119,198.90,Measured,22.87,Predicted
+919,Heptachlor epoxide a ,387.8126,388.8204,157.61,Measured,17.91,Measured
+920,Tioconazole,387.9781,388.9859,180.35,Measured,24.39,Predicted
+921,Zopiclone,388.1046,389.1124,187.50,Measured,26.35,Measured
+922,Trimethobenzamide,388.1993,389.2071,193.30,Measured,27.84,Predicted
+923,Permethrin I ,390.0785,391.0863,187.55,Measured,23.33,Measured
+924,Meclizine,390.1858,391.1936,206.83,Measured,26.27,Measured
+925,Isodecyl diphenyl phosphate,390.1955,391.2033,201.30,Measured,23.76,Predicted
+926,Digoxigenin,390.2401,391.2479,195.10,Measured,30.05,Predicted
+927,Betamethasone,392.1994,393.2072,195.21,Measured,25.89,Predicted
+928,Dextromoramide,392.2459,393.2537,194.25,Measured,25.56,Measured
+929,"2,2',3,4,4',5,5'-Heptachlorobiphenyl ",393.8020,394.8098,168.12,Measured,22.18,Measured
+930,"2,3,3',4,4',5,5'-Heptachlorobiphenyl",393.8020,394.8098,169.25,Measured,23.18,Measured
+931,Ethyl bromophos,393.8776,394.8854,166.36,Measured,18.70,Measured
+932,Diflufenican,394.0736,395.0814,183.86,Measured,21.96,Predicted
+933,Rotenone,394.1411,395.1489,195.54,Measured,27.87,Predicted
+934,Triamcinolone,394.1787,395.1865,188.09,Measured,29.55,Predicted
+935,Brucine,394.1888,395.1966,191.50,Measured,31.76,Measured
+936,Iodoquinol,396.8456,397.8534,143.35,Measured,21.69,Predicted
+937,Bensulide,397.0600,398.0678,183.44,Measured,21.68,Measured
+938,Diperodon,397.1997,398.2075,202.65,Measured,25.72,Predicted
+939,Pholcodine,398.2201,399.2279,192.50,Measured,27.22,Measured
+940,Colchicine,399.1677,400.1755,194.60,Measured,28.51,Measured
+941,Atabrine,399.2072,400.2150,195.70,Measured,26.53,Predicted
+942,Zuclopenthixol,400.1371,401.1449,194.00,Measured,28.17,Predicted
+943,Prednisolone Acetate,402.2037,403.2115,194.50,Measured,28.16,Predicted
+944,Cortisone Acetate,402.2037,403.2115,196.50,Measured,28.58,Predicted
+945,Acetyl tributyl citrate,402.2249,403.2327,201.16,Measured,20.30,Measured
+946,Phthalylsulfathiazole,403.0292,404.0370,194.90,Measured,30.36,Predicted
+947,Azoxystrobin,403.1163,404.1241,196.74,Measured,26.55,Predicted
+948,Perphenazine,403.1480,404.1558,192.50,Measured,23.33,Measured
+949,Sulfinpyrazone,404.1190,405.1268,193.85,Measured,29.92,Predicted
+950,Flunarizine,404.2059,405.2137,210.97,Measured,26.30,Measured
+951,Difenoconazole (I),405.0642,406.0720,200.43,Measured,26.57,Predicted
+952,Clomiphene,405.1854,406.1932,205.90,Measured,25.97,Predicted
+953,"2,4,4'-Tribromodiphenyl ether",405.8022,406.8100,156.47,Measured,20.23,Measured
+954,alpha-Endosulfan ,405.8135,406.8213,166.32,Measured,19.63,Measured
+955,beta-Endosulfan ,405.8135,406.8213,164.93,Measured,19.86,Measured
+956,Hexachlorophene,405.8465,406.8543,172.08,Measured,24.40,Predicted
+957,Permethrin II ,406.0734,407.0812,187.51,Measured,23.87,Measured
+958,Trifluoperazine,407.1638,408.1716,188.47,Measured,19.54,Measured
+959,Chlorfenapyr ,407.9669,408.9747,177.74,Measured,19.84,Measured
+960,Beclomethasone,408.1699,409.1777,189.62,Measured,27.25,Predicted
+961,Cholic acid,408.2871,409.2949,204.42,Measured,27.73,Measured
+962,Metrafenone,410.0549,411.0627,182.37,Measured,24.65,Predicted
+963,Spirodiclofen,410.1047,411.1125,194.80,Measured,23.78,Predicted
+964,"Tris(3,5-dimethylphenyl) phosphate",410.1642,411.1720,203.66,Measured,24.97,Measured
+965,Squalene,410.3908,411.3986,218.01,Measured,24.30,Measured
+966,Aurora,411.0359,412.0437,183.89,Measured,20.56,Predicted
+967,Leptophos,411.8671,412.8749,170.08,Measured,22.28,Measured
+968,Flucythrinate ,412.1544,413.1622,200.93,Measured,24.80,Measured
+969,Bixafen,413.0305,414.0383,182.75,Measured,24.75,Predicted
+970,Noscapine,413.1470,414.1548,194.30,Measured,27.04,Measured
+971,Flecainide,414.1373,415.1451,192.20,Measured,20.07,Predicted
+972,(+)-Diltiazem,414.1608,415.1686,196.78,Measured,25.70,Measured
+973,Cypermethrin II ,415.0737,416.0815,199.97,Measured,24.64,Measured
+974,Cypermethrin III ,415.0737,416.0815,199.97,Measured,24.67,Measured
+975,Cypermethrin IV ,415.0737,416.0815,200.33,Measured,24.73,Measured
+976,Cypermethrin I ,415.0737,416.0815,198.02,Measured,24.23,Measured
+977,Alfentanil,416.2531,417.2609,200.03,Measured,25.09,Predicted
+978,Tefluthrin ,418.0566,419.0644,176.40,Measured,16.23,Measured
+979,Nimodipine,418.1735,419.1813,198.00,Measured,24.84,Measured
+980,Dinonyl phthalate,418.3078,419.3156,228.96,Measured,23.82,Measured
+981,Fenvalerate II ,419.1283,420.1361,195.42,Measured,25.69,Measured
+982,Fenvalerate I ,419.1283,420.1361,195.49,Measured,24.75,Measured
+983,Bendroflumethiazide,421.0373,422.0451,188.60,Measured,23.19,Predicted
+984,Fenpyroximate,421.1997,422.2075,209.90,Measured,25.29,Predicted
+985,Endosulfan sulfate ,421.8084,422.8162,156.41,Measured,20.81,Measured
+986,Dixyrazine,427.2288,428.2366,201.00,Measured,28.47,Predicted
+987,Bromopropylate,427.9442,428.9520,176.60,Measured,23.26,Predicted
+988,Mebeverine,429.2510,430.2588,205.70,Measured,26.93,Predicted
+989,Budesonide,430.2350,431.2428,205.37,Measured,28.07,Predicted
+990,dl-alpha-Tocopherol,430.3806,431.3884,219.70,Measured,26.66,Predicted
+991,alpha-Vitamin E,430.3806,431.3884,226.10,Measured,26.68,Measured
+992,Benzthiazide,430.9830,431.9908,187.05,Measured,26.90,Predicted
+993,Cyfluthrin (I),433.0643,434.0721,198.14,Measured,24.15,Predicted
+994,Haloxyfop-ethoxyethyl,433.0899,434.0977,191.12,Measured,21.38,Measured
+995,Halosulfuron-methyl,434.0406,435.0484,195.20,Measured,26.20,Predicted
+996,Flunisolide,434.2100,435.2178,200.86,Measured,25.79,Predicted
+997,Triamcinolone acetonide,434.2100,435.2178,198.42,Measured,25.96,Predicted
+998,Fipronil,435.9382,436.9460,183.36,Measured,17.57,Predicted
+999,Fluphenazine,437.1744,438.1822,197.70,Measured,22.44,Measured
+1000,4-Aminofolic acid,440.1552,441.1630,204.40,Measured,30.45,Predicted
+1001,Norverapamil,440.2670,441.2748,207.30,Measured,27.14,Predicted
+1002,Folic acid,441.1392,442.1470,197.33,Measured,29.25,Predicted
+1003,Tetracycline,444.1528,445.1606,199.24,Measured,31.57,Predicted
+1004,Metopimazine,445.1489,446.1567,196.30,Measured,33.58,Predicted
+1005,Glipizide,445.1779,446.1857,198.33,Measured,28.12,Predicted
+1006,Lambda cyhalothrin I ,449.1001,450.1079,199.44,Measured,22.77,Measured
+1007,Lambda cyhalothrin II ,449.1001,450.1079,199.50,Measured,23.02,Measured
+1008,Fluocinolone acetonide,452.2005,453.2083,200.30,Measured,24.94,Predicted
+1009,Tris(2-Isopropylphenyl) phosphate,452.2111,453.2189,204.49,Measured,24.00,Measured
+1010,Diphenoxylate,452.2459,453.2537,216.50,Measured,24.99,Measured
+1011,Verapamil,454.2827,455.2905,210.09,Measured,27.15,Measured
+1012,Fluoxastrobin,458.0788,459.0866,205.65,Measured,27.84,Predicted
+1013,Hexaflumuron,459.9811,460.9889,188.39,Measured,22.11,Predicted
+1014,Pimozide,461.2274,462.2352,213.70,Measured,31.64,Predicted
+1015,Fluazinam,463.9509,464.9587,185.96,Measured,18.46,Predicted
+1016,Temephos,465.9892,466.9970,198.10,Measured,26.69,Predicted
+1017,Oxethazaine,467.3143,468.3221,213.70,Measured,30.89,Predicted
+1018,Enoxolone,470.3391,471.3469,214.06,Measured,31.43,Predicted
+1019,Terfenadine,471.3132,472.3210,229.12,Measured,30.43,Predicted
+1020,alpha-Tocopherol acetate,472.3911,473.3989,236.83,Measured,26.97,Measured
+1021,Butafenacil,474.0800,475.0878,211.80,Measured,24.73,Predicted
+1022,Loperamide,476.2226,477.2304,221.07,Measured,30.17,Predicted
+1023,Betamethasone valerate,476.2569,477.2647,214.75,Measured,28.70,Predicted
+1024,Chlortetracycline,478.1138,479.1216,198.78,Measured,30.78,Predicted
+1025,Triamcinolone Diacetate,478.1998,479.2076,210.65,Measured,28.10,Predicted
+1026,Nicardipine,479.2051,480.2129,212.07,Measured,29.91,Predicted
+1027,Emetine,480.2983,481.3061,219.60,Measured,30.59,Predicted
+1028,Chlorantraniliprole,482.9680,483.9758,199.10,Measured,30.19,Predicted
+1029,"2,2',4,4'-Tetrabromodiphenyl ether",485.7107,486.7185,162.52,Measured,22.26,Measured
+1030,"2,3',4,4'-Tetrabromodiphenyl ether",485.7107,486.7185,163.88,Measured,22.61,Measured
+1031,Flufenoxuron,488.0357,489.0435,205.48,Measured,24.25,Predicted
+1032,Chlordecone ,489.6771,490.6849,165.22,Measured,20.53,Measured
+1033,Novaluron,492.0118,493.0196,197.45,Measured,20.38,Predicted
+1034,Glyburide,493.1433,494.1511,205.87,Measured,29.14,Predicted
+1035,"Tris(2,3-dibromopropyl) phosphate",494.2581,495.2659,193.08,Measured,28.58,Measured
+1036,Ioxynil octanoate,496.9344,497.9422,183.55,Measured,22.92,Measured
+1037,Tau-fluvalinate I ,502.1266,503.1344,218.12,Measured,25.56,Measured
+1038,Tau-fluvalinate II ,502.1266,503.1344,217.44,Measured,25.65,Measured
+1039,Betamethasone dipropionate,504.2518,505.2596,218.75,Measured,29.79,Predicted
+1040,Deltamethrin ,504.9708,505.9786,194.82,Measured,26.25,Measured
+1041,Flumethrin ,509.0956,510.1034,218.53,Measured,26.61,Measured
+1042,Lufenuron,509.9779,510.9857,198.07,Measured,20.50,Predicted
+1043,Penfluridol,523.1696,524.1774,219.00,Measured,28.24,Predicted
+1044,Indoxacarb,527.0702,528.0780,214.92,Measured,25.07,Predicted
+1045,Daunorubicin,527.1786,528.1864,224.25,Measured,35.54,Predicted
+1046,Chlorflurazurone,538.9625,539.9703,222.05,Measured,27.07,Predicted
+1047,"2,2',4,4',6-Pentabromodiphenyl ether",563.6212,564.6290,168.11,Measured,23.76,Measured
+1048,"2,2',4,4',5-Pentabromodiphenyl ether",563.6212,564.6290,170.49,Measured,24.24,Measured
+1049,"2,2',3,4,4'-Pentabromodiphenyl ether",563.6212,564.6290,168.69,Measured,25.02,Measured
+1050,Ergotamine,581.2633,582.2711,231.80,Measured,31.16,Predicted
+1051,"2,2',4,4',5,6'-Hexabromodiphenyl ether",643.5297,644.5375,175.19,Measured,25.42,Measured
+1052,"2,2',4,4',5,5'-Hexabromodiphenyl ether",643.5297,644.5375,177.57,Measured,26.10,Measured
+1053,Amiodarone,645.0232,646.0310,226.87,Measured,31.42,Predicted
+1054,Aconitine,645.3144,646.3222,236.60,Measured,35.77,Predicted
+1055,"1,2-Bis(2,4,6-tribromophenoxy)ethane",687.5559,688.5637,182.34,Measured,28.61,Measured
+1056,"2,2',3,4,4',6,6'-Heptabromodiphenyl ether",721.4402,722.4480,177.00,Measured,27.59,Measured
+1057,"2,2',3,4,4',5',6-Heptabromodiphenyl ether",721.4402,722.4480,180.63,Measured,28.00,Measured
+1058,"2,3,3',4,4',5',6-Heptabromodiphenyl ether",721.4402,722.4480,182.75,Measured,28.58,Measured
+1059,"2,2',3,3',4,4',6,6'-Octabromodiphenyl ether",801.3486,802.3564,182.94,Measured,30.39,Measured
+1060,"2,2',3,3',4,4',5,6'-Octabromodiphenyl ether",801.3486,802.3564,186.85,Measured,31.04,Measured
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
