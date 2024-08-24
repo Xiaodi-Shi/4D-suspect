@@ -7,8 +7,11 @@
   
   i <- 1
   j <- 1
-  while (i<38226) #the number of detected peaks {
-    while (j<598) #the number of suspect compounds {
+  
+  #the number of detected peaks 
+  while (i<38226) {
+    #the number of suspect compounds  
+    while (j<598) {
       if (lib[j,3]>(RD[i,2]+0.002)){
         j<- 1
         break}
@@ -166,8 +169,10 @@
   
   i <- 1
   j <- 1
-  while (i<23968) #the number of detected peaks {
-    while (j<598) #the number of suspect compounds {
+  #the number of detected peaks
+  while (i<23968)  {
+    #the number of suspect compounds
+    while (j<598)  {
       if (lib[j,4]>(RD[i,2]+0.002)){
         j<- 1
         break}
