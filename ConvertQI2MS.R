@@ -14,7 +14,7 @@ for (spectrum in spectra) {
   compound_name <- gsub("Name: ", "", lines[1])
   parent_mass <- as.numeric(gsub("PrecursorMZ: ", "", lines[3])) + 1.0078
   
-  # Since SIRIUS only calculates the molecular compositions for protonated ions in positive mode, the mass of a hydrogen (i.e., 1.0078) is added to the mass of precursor ions for peaks detected in the dry condition. 
+  # Since SIRIUS only calculates the molecular compositions for protonated ions in positive mode, the mass of a hydrogen (i.e., 1.0078 Da) is added to the mass of precursor ions for peaks detected in the dry condition. 
   
   ionization <- gsub("Charge: ", "", lines[2])
   ms2_peaks_lines <- lines[6:length(lines)]
