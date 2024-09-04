@@ -1,4 +1,4 @@
-# Multidimension-constrained suspect screening
+# Multidimensional-constrained suspect screening
 
 ## Overview: 
 This GitHub repository contains suspect lists, R scripts, and demo data associated with the article:
